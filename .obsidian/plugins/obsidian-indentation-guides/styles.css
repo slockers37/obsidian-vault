@@ -1,0 +1,138 @@
+/* @settings
+
+name: Indentation Guides
+id: obsidian-indentation-guides
+settings:
+    - 
+        id: indentation-guide-adjust
+        title: Adjust guide horizontal position
+        type: variable-number-slider
+        default: 0
+        min: -10
+        max: 10
+        step: 1
+        format: px
+    - 
+        id: indentation-guide-adjust-preview
+        title: Adjust guide horizontal position (reading mode)
+        type: variable-number-slider
+        default: 0
+        min: -10
+        max: 10
+        step: 1
+        format: px
+    - 
+        id: indentation-guide-color
+        title: Inactive indentation guide color
+        type: variable-themed-color
+        format: rgb
+        opacity: true
+        default-light: 'rgba(0, 0, 0, 0.06)'
+        default-dark: 'rgba(255, 255, 255, 0.08)'
+    - 
+        id: indentation-guide-active-color
+        title: Active indentation guide color
+        type: variable-themed-color
+        format: rgb
+        opacity: true
+        default-light: 'rgba(0, 0, 0, 0.14)'
+        default-dark: 'rgba(255, 255, 255, 0.17)'
+
+*/
+
+:root {
+  --indentation-guide-adjust: 0px;
+  --indentation-guide-adjust-preview: 0px;
+}
+
+.theme-light {
+  --indentation-guide-color: rgba(0, 0, 0, 0.06);
+  --indentation-guide-active-color: rgba(0, 0, 0, 0.14);
+}
+
+.theme-dark {
+  --indentation-guide-color: rgba(255, 255, 255, 0.08);
+  --indentation-guide-active-color: rgba(255, 255, 255, 0.17);
+}
+
+.ig-tab {
+  display: inline-block;
+  text-decoration: inherit;
+}
+
+/* Lists */
+.ig-lists .HyperMD-list-line,
+/* Code */
+.ig-code .HyperMD-codeblock,
+/* Uncategorized */
+.ig-uncategorized .cm-line[style*="text-indent"]:not(.HyperMD-list-line) {
+  position: relative;
+}
+
+/* Lists */
+.ig-lists .HyperMD-list-line .ig-tab::before,
+/* Code */
+.ig-code .HyperMD-codeblock .ig-tab::before,
+/* Uncategorized */
+.ig-uncategorized
+  .cm-line[style*="text-indent"]:not(.HyperMD-list-line)
+  .ig-tab::before {
+  content: " ";
+  display: block;
+  width: 1px;
+  background-color: var(--indentation-guide-color);
+  font-size: 0;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  transform: translateX(var(--indentation-guide-adjust));
+}
+
+/* Lists */
+.ig-lists
+  .HyperMD-list-line.ig-indent-group
+  .ig-tab.ig-indent-group-level::before,
+/* Code */
+.ig-code
+  .HyperMD-codeblock.ig-indent-group
+  .ig-tab.ig-indent-group-level::before,
+/* Uncategorized */
+.ig-uncategorized
+  .cm-line[style*="text-indent"].ig-indent-group:not(.HyperMD-list-line)
+  .ig-tab.ig-indent-group-level::before {
+  background-color: var(--indentation-guide-active-color);
+}
+
+/* Override the outliner plugin */
+.ig-lists.outliner-plugin-vertical-lines .cm-s-obsidian .HyperMD-list-line {
+  overflow: unset;
+}
+
+.ig-lists.outliner-plugin-vertical-lines .cm-hmd-list-indent {
+  position: unset;
+}
+
+.ig-lists.outliner-plugin-vertical-lines .cm-line .cm-hmd-list-indent::before {
+  content: none;
+}
+
+/* Preview lists */
+.ig-lists-preview .markdown-preview-view li ul,
+.ig-lists-preview .markdown-preview-view li ol {
+  box-shadow: calc(-1em + 1px + var(--indentation-guide-adjust-preview)) 0 0 -1px
+      var(--background-primary),
+    calc(-1em + var(--indentation-guide-adjust-preview)) 0 0 -1px var(--indentation-guide-color);
+}
+
+.ig-lists-preview .markdown-preview-view .list-collapse-indicator {
+  margin-left: -40px;
+  margin-top: -1px;
+}
+
+.ig-lists-preview
+  .markdown-preview-view
+  .task-list-item
+  .list-collapse-indicator {
+  margin-left: -45px;
+  margin-top: -1px;
+}

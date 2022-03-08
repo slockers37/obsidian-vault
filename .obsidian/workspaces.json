@@ -1,0 +1,166 @@
+{
+  "workspaces": {
+    "Current1": {
+      "main": {
+        "id": "e832de40068e26d0",
+        "type": "split",
+        "children": [
+          {
+            "id": "257eadd7c9bdf8bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sensors Introduction.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "e83dc80233c35836",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Attachments/Sensors Introduction_2021-11-10 16.02.10.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "edb21f0cc61845d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EM field theory basics.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "b1aae63594f48f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic-notes/daily-notes/2021-11-10.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "98dda67a6e26d217",
+        "type": "split",
+        "children": [
+          {
+            "id": "09a221745d6ccd7b",
+            "type": "tabs",
+            "dimension": 68.11254396248535,
+            "children": [
+              {
+                "id": "31ac770f20cc58ae",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ac43f81e6c5d1de4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f188a1f923dd7c75",
+            "type": "tabs",
+            "dimension": 31.887456037514657,
+            "children": [
+              {
+                "id": "57908752f9ddc6d5",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 231
+      },
+      "right": {
+        "id": "ebf7c263ffe5b871",
+        "type": "split",
+        "children": [
+          {
+            "id": "ad8451ff79e97198",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "be59ef56c3a11052",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "periodic-notes/daily-notes/2021-11-10.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ba96c59cc9472112",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "periodic-notes/daily-notes/2021-11-10.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "95e05747f28d4f32",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5b92ae7248ad9af3",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 295
+      },
+      "active": "b1aae63594f48f9c"
+    }
+  },
+  "active": "Current1"
+}

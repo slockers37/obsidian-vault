@@ -1,0 +1,73 @@
+- [[2021-02-23]]
+   - Sensors can be characterised by some performance parameters which can tell whether the sensor is good or bad.
+      - *Limit of detection*:: Lowest possible concentration of the analyte which can be detected is called the limit of detection.
+         - How sensitive the sensor is would correspond to *Limit of Detection*.
+      - *Sensitivity*:: $S=\frac{dP}{dc}=$ Change in the measurand w.r.t. unit change in analyte parameter. 
+      - *Linear response*:: Linear response means having a constant sensitivity.
+         - Linear response sensor is better because you can predict sensitivity at any point in the *dynamic range* of the sensor
+      - *Dynamic Range*:: The range of operation of the sensor.
+         - Sometimes, the sensor might have response which is increasing and then decreasing so essentially for one value on $y$-axis, there are two values on $x$-axis which is undesirable so we choose a certain range of the sensor to operate on.
+      - *Detection accuracy*:: $=\frac{1}{\Delta\lambda_{FWHM}}$
+      - *Figure of Merit*:: $=\frac{S}{\Delta\lambda}$
+      - *Precision*:: Precision is self explanatory and it depends on detector.
+      - *Selectivity*:: Selectivity means to select the analyte very accurately and not select the neighbouring molecules.
+      - *Repeatability*:: which means the error bars should be smaller to get better repeatability.
+      - *Shelf life*:: Self explanatory
+      - *Response time*:: Time taken by the sensor to give a stable signal.
+         - It might depend on various factors as well depending on the sensor. 
+         - For example, RTPCR test requires some time to give a quantitative analysis of the virus, which is independent of the response time of the sensor.
+- [[2021-02-24]]
+	- Why does light bend when it goes from air to glass?
+		- We know that when light enters a medium, we can represent it with Maxwell's equations and rather looking at electric fields, we can see that in the boundary, there are certain conditions to be met which are essentially
+			
+			$$E_{parallel}^{air}=E_{parallel}^{glass}$$
+			$$\epsilon_{air}E_{perpen}^{air}=\epsilon_{glass}E_{perpen}^{glass}\implies E_{perpen}^{air}=\frac{\epsilon_{glass}}{\epsilon_{air}}E_{perpen}^{glass}\implies E_{perpen}^{air}>E_{perpen}^{glass}$$
+		- The charges inside a medium (glass) are randomly arranged before light enters but when iight enters the medium, an electric field is generated inside the material which is opposite in direction to the electric field of light and thus resulting electric field is smaller which means light bends in the medium.
+- [[2021-03-16]]
+	- Wavelength of surface plasmon is smaller than wavelength of light used. Implications of this includes:
+		- Higher Resolution
+		- Field will be packed in a smaller wave so field gets enhanced so the surface heats up and you get more power.
+- [[2021-03-23]]
+	- When $\omega>\omega_p$ , then material becomes transparent and plasmons become radiative.
+	- We loosely say that **surface plasmons** are excited but the surface plasmons have some EM behavior embedded in it as well, almost like electric field oscillations so those oscillations along with surface plasmons would be more aptly known as **Surface Plasmon Polariton**.
+	- **Why does rough surface excite surface plasmons without any condition to be met?**
+	- **Extraordinary Transmission** :: It has some amazing characteristics and those being that it can transmit more than what should be possible.
+	- **Localized Surface Plasmons** :: These are the electron cloud oscillations associated with metallic nanostructures.
+- [[2021-03-30]]
+	- Raman Spectroscopy is a great method of sensing because [[Raman shift is unique for each material]], /wavelength independent/ since we measure the shift in wavelength not the position of wavelength itself. The intensity of the Raman shift peak will depend on the wavelength, though.
+	- Also Raman Spectra is very weak since cross-section of Raman scattering is very small, about $1$ in $10^7$ photons undergo Raman scattering. We will look into ways of enhancing it.
+	- [ ] More to write here.
+- [[2021-04-01]]
+	- Surface Enhanced Raman Spectroscopy (SERS) field enhancement calculation $$E_{mol}=E_0+E_{plas}$$ $$E_{plas}=\frac{\epsilon_m-\epsilon_0}{\epsilon_m+2\epsilon_0}\frac{R^3}{(R+d)^3}E_0$$ for spherical nanostructure
+		- Field enhancement factor, $$A(\nu)=\frac{E_{mol}(\nu)}{E_0(\nu)}\sim\frac{\epsilon_m-\epsilon_0}{\epsilon_m+2\epsilon_0}\frac{R^3}{(R+d)^3}$$
+		- Field enhancement *power* due to stokes signal and laser signal $$G_{em}(\nu_S)=|A(\nu_L)|^2|A(\nu_S)|^2=\left(\frac{\epsilon_m(\nu_L)-\epsilon_0}{\epsilon_m(\nu_L)+2\epsilon_0}\frac{\epsilon_m(\nu_S)-\epsilon_0}{\epsilon_m(\nu_S)+2\epsilon_0}\right)^2\left(\frac{R}{R+d}\right)^{12}$$
+	- [ ] More to write here.
+- [[2021-04-13]]
+	- Today we elaborated on the idea of [[Flouroscence]] based sensing and discussed [[Surface enhanced flouroscence]] based sensing.
+	- Flouroscence measurement can be done in two ways-
+		- Using monochromator and then using specific wavelength detectors.
+		- Using white light and a spectrometer.
+	- Enhancement of flouroscence signal is done in the same manner that enhancement of Raman signal was done, the resonance peak should encompass both the laser wavelength and the flouroscent wavelength to get maximum enhancement.
+	- Also there is not much research ongoing in the area of SEIRA (Surface Enhanced IR Absorption) which is necessary to get full picture of a complex compound which might have bonds with permanent dipoles and bonds with induced dipole.
+	- [ ] More to write here.
+	- **Questions to ask**
+		- *Does the intensity of flouroscence in every direction the same and if not how does it match the absorption intensity exactly?*
+		- *How do we exactly control the resonance curve to encompass the absorption and flouroscence wavelength?*
+- [[2021-04-16]]
+- [[2021-04-20]]
+	- Learn about newton rings more.
+	- Visibility is an important factor to consider when viewing interference pattern.
+- [[2020-04-23]]
+	- Michelson Interferometer
+		- It has a beam splitter to seperate a single beam to two beams of equal amplitude and they are reflected back from two mirrors placed at $90^{\circ}$ to each other. Finally the rays interfere at a position which is also $90^{\circ}$ to the source.
+		- Here, the fringes emerge from an extended source (diffused source meaning scattered source) as circular fringes and if we slightly tilt one of the mirrors, the fringes view is shift to far side of the circular fringes and we see only linear plane fringes.
+		- One of the applications for Michelson interferometer is to calculate wavelength by displacing one of the mirrors to change path difference.
+			- It can help with standardization of wavelength or standardization of meter scale.
+- [[2020-04-24]]
+	- Another application of using Michelson interferometer is for *Fourier Transform Spectroscopy* where there are two wavelengths of light like for `Na`. Fourier Transform Spectroscopy is used in FTIR.
+	- Also Michelson interferometer can be used for *Optical Coherence Tomography*.
+- [[2021-05-04]]
+	- Modes are eigenstates of a fiber that are sustained throughout the fiber.
+	- Questions
+		- Are the two FBG in the same fiber?
+			- Yes, they are.

@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "csl-json",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "literature-notes",
+  "literatureNoteContentTemplate": "## Notes\n\n\n\n---\n\n#### Metadata\ntitle:: {{title}}\nauthors:: {{authorString}}\nyear:: {{year}}\njournal:: {{publisher}}\nabstract:: {{abstract}}\nDOI:: {{DOI}}\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/sumonsinha/Dropbox/MyLibrary.json"
+}
