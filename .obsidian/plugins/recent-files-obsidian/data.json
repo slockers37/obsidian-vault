@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Optical Fiber Waveguides",
+      "path": "Optical Fiber Waveguides.md"
+    },
+    {
+      "basename": "Single Mode Fiber",
+      "path": "Single Mode Fiber.md"
+    },
+    {
       "basename": "2022-03-11",
       "path": "periodic-notes/daily-notes/2022-03-11.md"
     },
@@ -189,16 +197,8 @@
       "path": "Templater Scripts.md"
     },
     {
-      "basename": "Single Mode Fiber",
-      "path": "Single Mode Fiber.md"
-    },
-    {
       "basename": "Sensors Introduction",
       "path": "Sensors Introduction.md"
-    },
-    {
-      "basename": "2021-12-08",
-      "path": "periodic-notes/daily-notes/2021-12-08.md"
     }
   ],
   "omittedPaths": [],

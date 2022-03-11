@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "periodic-notes/daily-notes/2022-03-11.md",
+            "file": "Optical Fiber Waveguides.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-03-11.md",
+                "file": "Optical Fiber Waveguides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-03-11.md"
+                "file": "Optical Fiber Waveguides.md"
               }
             }
           }
@@ -141,6 +141,8 @@
   },
   "active": "9cad7b631abaa17d",
   "lastOpenFiles": [
+    "Optical Fiber Waveguides.md",
+    "Single Mode Fiber.md",
     "periodic-notes/daily-notes/2022-03-11.md",
     "templates/periodic-notes/Daily.md",
     "periodic-notes/daily-notes/2022-03-08.md",
@@ -148,8 +150,6 @@
     "Basic Optics for Optical Sensing.md",
     "000 Index.md",
     "All Literature Notes.md",
-    "Excel - Beginner to Advanced.md",
-    "literature-notes/@weissTunableMetasurfaceUsing2022.md",
-    "Electromagnetic Analysis Using FDTD.md"
+    "Excel - Beginner to Advanced.md"
   ]
 }
