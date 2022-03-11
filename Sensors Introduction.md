@@ -1,3 +1,5 @@
+Go Back: [[Basic Optics for Optical Sensing]]
+
 # Sensors and Biosensors
 *Devices that determine the change in one physical parameter in terms of **magnitude** of another parameter that may be measured more precisely or easily are known as [[sensors]].*
 
@@ -27,3 +29,6 @@ Sometimes the [[biorecognition element|BRE]] can be attached to the sensor surfa
 - Light Energy (wavelength): Flouroscence, Raman, etc.
 
 ![[Sensors Introduction_2021-11-10 16.02.10.excalidraw]]
+
+
+Next: [[Sensor Fabrication and Characterization]]

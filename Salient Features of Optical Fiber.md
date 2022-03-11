@@ -1,11 +1,12 @@
 ---
-tags: waveguides
+tags: [waveguides]
 author: Sumon Sinha
 source: 
 - https://bit.ly/3mVOiGU
 - https://bit.ly/3tl9Qiw
 ---
 link: [[optical fiber]]
+Go Back: [[Course - Optical Fiber]]
 
 # Need for Light in Tele-Communication
 We need light for tele-communication because light has much larger bandwidth because of much higher frequency than microwave and radio waves. In order to do that, we need to guide light through curves and corners which can be done via optical fiber.

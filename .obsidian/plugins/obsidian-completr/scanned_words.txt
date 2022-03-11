@@ -16,6 +16,8 @@ Analysis
 Advanced
 Algorithms
 Activities
+Acoustic
+Absorbance
 Surface
 Second
 Sensing
@@ -55,6 +57,7 @@ Graphics
 Geometries
 Gratings
 Grating
+Glucometer
 Biological
 BoogieSnacks
 Bloody
@@ -63,6 +66,8 @@ Building
 Beginner
 Because
 Breakfast
+Biosensors
+Bonding
 authors
 abstract
 analytical
@@ -112,6 +117,9 @@ academics
 arbitrary
 assigned
 accounts
+another
+attached
+acceptable
 Krystal
 Kakegurui
 KJJJJJJ
@@ -131,6 +139,9 @@ Course
 Circuit
 Convolutional
 Create
+Components
+Covalent
+Common
 journal
 jlPXKXKSXfs
 second
@@ -204,6 +215,10 @@ sections
 solution
 scholar
 service
+supporting
+stability
+support
+shouldn
 harmonic
 holographic
 hundred
@@ -231,6 +246,7 @@ gathering
 graded
 getting
 google
+glucose
 coherent
 constraints
 concentrations
@@ -300,6 +316,12 @@ calculated
 career
 chapter
 currently
+column
+current
+compounds
+component
+converted
+crosslinker
 nonlinear
 nanoparticle
 nanodisk
@@ -363,6 +385,8 @@ techniques
 travelling
 tracker
 troublesome
+temperature
+thermometer
 investigations
 interactions
 interfaces
@@ -398,6 +422,9 @@ interface
 involving
 invasive
 iNGdiunEQFk
+immune
+immobilised
+interact
 biomolecular
 background
 biosensors
@@ -418,6 +445,9 @@ become
 behavior
 bandwidth
 building
+biosensor
+biochemical
+binding
 process
 providing
 proteins
@@ -479,6 +509,13 @@ program
 problem
 previous
 project
+physical
+precisely
+prevents
+positions
+particular
+protocol
+produces
 distinct
 detect
 describes
@@ -531,6 +568,8 @@ demonstrates
 details
 divided
 define
+determine
+disease
 linear
 limitation
 lithium
@@ -607,6 +646,10 @@ magnetic
 members
 minimum
 management
+magnitude
+measured
+measures
+measurable
 uorescence
 utilizing
 unique
@@ -616,6 +659,7 @@ undesirable
 undergo
 uploads
 update
+utilises
 Visible
 Vampire
 Vollmer
@@ -656,6 +700,8 @@ routes
 reactive
 reason
 reading
+reaction
+reacts
 enhanced
 encompasses
 evolution
@@ -711,6 +757,8 @@ entire
 equation
 electromagnetics
 examine
+easily
+environmental
 frequencies
 fabrication
 further
@@ -759,6 +807,8 @@ Tomography
 Topics
 TbzFef
 Techniques
+Thermometer
+Transmittance
 Metasurface
 Mazurski
 Metasurfaces
@@ -806,6 +856,8 @@ Repeatability
 Response
 Resolution
 Resources
+Reflectance
+Refractive
 Frydendahl
 Following
 Fresnel
@@ -821,6 +873,7 @@ Finite
 Frequency
 Function
 Facewash
+Functionalization
 Jonathan
 Joseph
 Zektzer
@@ -841,6 +894,8 @@ Enhancing
 Equations
 Electromagnetic
 Evening
+Electrical
+Energy
 Desiatov
 Dreamin
 Device
@@ -858,6 +913,8 @@ Derivation
 Difference
 Domain
 Dinner
+Devices
+Dimensions
 Pockels
 Prince
 Principle
@@ -874,6 +931,9 @@ Perfectly
 Placement
 Periodic
 Photonic
+Pregnancy
+Parameters
+Polarization
 wavelength
 waveguides
 whispering
@@ -885,6 +945,7 @@ windows
 waveguide
 website
 workflow
+whereas
 quadratic
 quantitative
 Youtubers
@@ -913,6 +974,8 @@ Introduction
 IsFuJVjruqk
 Interface
 Impactstory
+Infectious
+Immobilisation
 Working
 Weekly
 Wavelength

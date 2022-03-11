@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Course - Optical Fiber",
+      "path": "Course - Optical Fiber.md"
+    },
+    {
+      "basename": "Salient Features of Optical Fiber",
+      "path": "Salient Features of Optical Fiber.md"
+    },
+    {
+      "basename": "Sensor Fabrication and Characterization",
+      "path": "Sensor Fabrication and Characterization.md"
+    },
+    {
+      "basename": "Sensors Introduction",
+      "path": "Sensors Introduction.md"
+    },
+    {
+      "basename": "Course - Optical Sensors",
+      "path": "Course - Optical Sensors.md"
+    },
+    {
+      "basename": "Basic Optics for Optical Sensing",
+      "path": "Basic Optics for Optical Sensing.md"
+    },
+    {
+      "basename": "000 Index",
+      "path": "000 Index.md"
+    },
+    {
+      "basename": "localised surface plasmon resonance",
+      "path": "localised surface plasmon resonance.md"
+    },
+    {
+      "basename": "Excel - Beginner to Advanced",
+      "path": "Excel - Beginner to Advanced.md"
+    },
+    {
       "basename": "Optical Fiber Waveguides",
       "path": "Optical Fiber Waveguides.md"
     },
@@ -21,20 +57,8 @@
       "path": "periodic-notes/daily-notes/2021-06-25.md"
     },
     {
-      "basename": "Basic Optics for Optical Sensing",
-      "path": "Basic Optics for Optical Sensing.md"
-    },
-    {
-      "basename": "000 Index",
-      "path": "000 Index.md"
-    },
-    {
       "basename": "All Literature Notes",
       "path": "All Literature Notes.md"
-    },
-    {
-      "basename": "Excel - Beginner to Advanced",
-      "path": "Excel - Beginner to Advanced.md"
     },
     {
       "basename": "@weissTunableMetasurfaceUsing2022",
@@ -61,16 +85,8 @@
       "path": "Electro-Optic effect.md"
     },
     {
-      "basename": "Dispersion Curve for SP",
-      "path": "Dispersion Curve for SP.md"
-    },
-    {
       "basename": "Finite Difference Time Domain",
       "path": "Finite Difference Time Domain.md"
-    },
-    {
-      "basename": "Course - Optical Sensors",
-      "path": "Course - Optical Sensors.md"
     },
     {
       "basename": "@wangPlasmofluidicsMergingLight2015",
@@ -95,10 +111,6 @@
     {
       "basename": "Pasted image 20220202064559",
       "path": "Attachments/images/Pasted image 20220202064559.png"
-    },
-    {
-      "basename": "localised surface plasmon resonance",
-      "path": "localised surface plasmon resonance.md"
     },
     {
       "basename": "Metasurfaces",
@@ -133,24 +145,12 @@
       "path": "Photonic Crystal Fiber.md"
     },
     {
-      "basename": "Optical Electronics",
-      "path": "Optical Electronics.md"
-    },
-    {
       "basename": "gnuplot",
       "path": "gnuplot.md"
     },
     {
-      "basename": "EM field theory basics",
-      "path": "EM field theory basics.md"
-    },
-    {
       "basename": "Desktop Configuration APP Lab",
       "path": "Desktop Configuration APP Lab.md"
-    },
-    {
-      "basename": "Sensor Fabrication and Characterization",
-      "path": "Sensor Fabrication and Characterization.md"
     },
     {
       "basename": "biorecognition element",
@@ -195,10 +195,6 @@
     {
       "basename": "Templater Scripts",
       "path": "Templater Scripts.md"
-    },
-    {
-      "basename": "Sensors Introduction",
-      "path": "Sensors Introduction.md"
     }
   ],
   "omittedPaths": [],
