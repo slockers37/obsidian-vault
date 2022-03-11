@@ -16,7 +16,7 @@
         }
       },
       {
-        "id": "1ad6d72de53f6b74",
+        "id": "2b69f4996c65e349",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -149,11 +149,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
-  "active": "1ad6d72de53f6b74",
+  "active": "2b69f4996c65e349",
   "lastOpenFiles": [
     "Need for Optical Communication.md",
+    "Attachments/Communication Schematic.excalidraw.md",
     "Course - Optical Fiber.md",
     "Salient Features of Optical Fiber.md",
     "Sensor Fabrication and Characterization.md",
@@ -161,7 +163,6 @@
     "Course - Optical Sensors.md",
     "Dispersion Curve for SP.md",
     "Basic Optics for Optical Sensing.md",
-    "000 Index.md",
-    "Optical Electronics.md"
+    "000 Index.md"
   ]
 }

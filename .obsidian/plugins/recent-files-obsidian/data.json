@@ -5,6 +5,10 @@
       "path": "Need for Optical Communication.md"
     },
     {
+      "basename": "Communication Schematic.excalidraw",
+      "path": "Attachments/Communication Schematic.excalidraw.md"
+    },
+    {
       "basename": "Course - Optical Fiber",
       "path": "Course - Optical Fiber.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "transducer",
       "path": "transducer.md"
-    },
-    {
-      "basename": "Templater Scripts",
-      "path": "Templater Scripts.md"
     }
   ],
   "omittedPaths": [],
