@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2100af8a63f9ce12",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Course - Optical Fiber.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "2b69f4996c65e349",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Need for Optical Communication.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e5540b361ca76a8b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "EM waves.md",
             "mode": "source",
             "source": false
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Need for Optical Communication.md",
+                "file": "EM waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Need for Optical Communication.md"
+                "file": "EM waves.md"
               }
             }
           }
@@ -149,11 +149,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
-  "active": "2b69f4996c65e349",
+  "active": "e5540b361ca76a8b",
   "lastOpenFiles": [
+    "EM waves.md",
+    "templates/alias.md",
     "Need for Optical Communication.md",
     "Attachments/Communication Schematic.excalidraw.md",
     "Course - Optical Fiber.md",
@@ -161,8 +162,6 @@
     "Sensor Fabrication and Characterization.md",
     "Sensors Introduction.md",
     "Course - Optical Sensors.md",
-    "Dispersion Curve for SP.md",
-    "Basic Optics for Optical Sensing.md",
-    "000 Index.md"
+    "Dispersion Curve for SP.md"
   ]
 }

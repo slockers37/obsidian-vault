@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "EM waves",
+      "path": "EM waves.md"
+    },
+    {
+      "basename": "alias",
+      "path": "templates/alias.md"
+    },
+    {
       "basename": "Need for Optical Communication",
       "path": "Need for Optical Communication.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "Electromagnetic Analysis Using FDTD",
       "path": "Electromagnetic Analysis Using FDTD.md"
-    },
-    {
-      "basename": "alias",
-      "path": "templates/alias.md"
     },
     {
       "basename": "@rodriguez-sevillaOpticalTrappingBiosensing2017",
@@ -195,10 +199,6 @@
     {
       "basename": "Wavelength range for different regions of EM spectra",
       "path": "Wavelength range for different regions of EM spectra.md"
-    },
-    {
-      "basename": "transducer",
-      "path": "transducer.md"
     }
   ],
   "omittedPaths": [],
