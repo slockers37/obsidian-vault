@@ -12,3 +12,4 @@ Communication channel introduces loss which has to be minimised for reliable com
 
 Electric signals produced by sources like telephone, video and computers are suitable for transmission through channel so we need to *modulate the signal* with high frequency EM wave such as *radio waves, microwave and light waves*. These modulated signal is known as carrier wave and the method of communication is known as carrier wave communication.
 
+

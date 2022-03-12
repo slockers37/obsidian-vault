@@ -1,6 +1,3 @@
 ---
-aliases: [<% tp.file.cursor() %>]
+aliases: [electromagnetic waves]
 ---
-
-
-

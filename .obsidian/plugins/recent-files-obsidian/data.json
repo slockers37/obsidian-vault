@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Need for Optical Communication",
+      "path": "Need for Optical Communication.md"
+    },
+    {
       "basename": "EM waves",
       "path": "EM waves.md"
     },
     {
       "basename": "alias",
       "path": "templates/alias.md"
-    },
-    {
-      "basename": "Need for Optical Communication",
-      "path": "Need for Optical Communication.md"
     },
     {
       "basename": "Communication Schematic.excalidraw",
@@ -195,10 +195,6 @@
     {
       "basename": "2021-10-06",
       "path": "periodic-notes/daily-notes/2021-10-06.md"
-    },
-    {
-      "basename": "Wavelength range for different regions of EM spectra",
-      "path": "Wavelength range for different regions of EM spectra.md"
     }
   ],
   "omittedPaths": [],

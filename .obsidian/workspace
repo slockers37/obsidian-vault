@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "e5540b361ca76a8b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "EM waves.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EM waves.md",
+                "file": "Need for Optical Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EM waves.md"
+                "file": "Need for Optical Communication.md"
               }
             }
           }
@@ -151,17 +139,17 @@
     "direction": "horizontal",
     "width": 297.5
   },
-  "active": "e5540b361ca76a8b",
+  "active": "2b69f4996c65e349",
   "lastOpenFiles": [
-    "EM waves.md",
-    "templates/alias.md",
     "Need for Optical Communication.md",
+    "EM waves.md",
+    "Untitled.md",
+    "templates/alias.md",
     "Attachments/Communication Schematic.excalidraw.md",
     "Course - Optical Fiber.md",
     "Salient Features of Optical Fiber.md",
     "Sensor Fabrication and Characterization.md",
     "Sensors Introduction.md",
-    "Course - Optical Sensors.md",
-    "Dispersion Curve for SP.md"
+    "Course - Optical Sensors.md"
   ]
 }
