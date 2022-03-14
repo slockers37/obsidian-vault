@@ -1,4 +1,0 @@
----
-rating: ★★★☆☆
-tags: movie, watched
----
