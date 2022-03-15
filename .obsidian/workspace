@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "periodic-notes/daily-notes/2022-03-15.md",
+            "file": "periodic-notes/daily-notes/2022-03-16.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-03-15.md",
+                "file": "periodic-notes/daily-notes/2022-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-03-15.md"
+                "file": "periodic-notes/daily-notes/2022-03-16.md"
               }
             }
           }
@@ -142,6 +142,7 @@
   },
   "active": "76b73b51b57ce1bc",
   "lastOpenFiles": [
+    "periodic-notes/daily-notes/2022-03-16.md",
     "periodic-notes/daily-notes/2022-03-15.md",
     "periodic-notes/daily-notes/2022-03-14.md",
     "emacs learning.md",
@@ -150,7 +151,6 @@
     "Section 375.md",
     "transactions.ledger",
     "Need for Optical Communication.md",
-    "EM waves.md",
-    "Untitled.md"
+    "EM waves.md"
   ]
 }
