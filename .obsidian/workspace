@@ -27,14 +27,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d175de641a617eb6",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "56691725c189737a",
             "type": "leaf",
             "state": {
@@ -55,6 +47,20 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b23c2d398926b0d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d175de641a617eb6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
             }
           }
         ]

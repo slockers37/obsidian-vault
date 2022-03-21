@@ -20,5 +20,7 @@
   "obsidian-dictionary-plugin",
   "obsidian-style-settings",
   "obsidian-checklist-plugin",
-  "obsidian-orthography"
+  "obsidian-orthography",
+  "obsidian-git",
+  "sliding-panes-obsidian"
 ]
