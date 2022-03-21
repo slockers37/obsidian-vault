@@ -5,64 +5,8 @@
       "path": "periodic-notes/daily-notes/2022-03-16.md"
     },
     {
-      "basename": "2022-03-15",
-      "path": "periodic-notes/daily-notes/2022-03-15.md"
-    },
-    {
-      "basename": "2022-03-14",
-      "path": "periodic-notes/daily-notes/2022-03-14.md"
-    },
-    {
-      "basename": "emacs learning",
-      "path": "emacs learning.md"
-    },
-    {
-      "basename": "org-mode",
-      "path": "org-mode.md"
-    },
-    {
-      "basename": "2021-11-29",
-      "path": "periodic-notes/daily-notes/2021-11-29.md"
-    },
-    {
-      "basename": "transactions",
-      "path": "transactions.ledger"
-    },
-    {
-      "basename": "Need for Optical Communication",
-      "path": "Need for Optical Communication.md"
-    },
-    {
-      "basename": "EM waves",
-      "path": "EM waves.md"
-    },
-    {
-      "basename": "alias",
-      "path": "templates/alias.md"
-    },
-    {
-      "basename": "Communication Schematic.excalidraw",
-      "path": "Attachments/Communication Schematic.excalidraw.md"
-    },
-    {
-      "basename": "Course - Optical Fiber",
-      "path": "Course - Optical Fiber.md"
-    },
-    {
-      "basename": "Salient Features of Optical Fiber",
-      "path": "Salient Features of Optical Fiber.md"
-    },
-    {
-      "basename": "Sensor Fabrication and Characterization",
-      "path": "Sensor Fabrication and Characterization.md"
-    },
-    {
-      "basename": "Sensors Introduction",
-      "path": "Sensors Introduction.md"
-    },
-    {
-      "basename": "Course - Optical Sensors",
-      "path": "Course - Optical Sensors.md"
+      "basename": "Daily",
+      "path": "templates/periodic-notes/Daily.md"
     },
     {
       "basename": "Basic Optics for Optical Sensing",
@@ -73,36 +17,12 @@
       "path": "000 Index.md"
     },
     {
-      "basename": "localised surface plasmon resonance",
-      "path": "localised surface plasmon resonance.md"
+      "basename": "All Literature Notes",
+      "path": "All Literature Notes.md"
     },
     {
       "basename": "Excel - Beginner to Advanced",
       "path": "Excel - Beginner to Advanced.md"
-    },
-    {
-      "basename": "Optical Fiber Waveguides",
-      "path": "Optical Fiber Waveguides.md"
-    },
-    {
-      "basename": "Single Mode Fiber",
-      "path": "Single Mode Fiber.md"
-    },
-    {
-      "basename": "2022-03-11",
-      "path": "periodic-notes/daily-notes/2022-03-11.md"
-    },
-    {
-      "basename": "Daily",
-      "path": "templates/periodic-notes/Daily.md"
-    },
-    {
-      "basename": "2021-06-25",
-      "path": "periodic-notes/daily-notes/2021-06-25.md"
-    },
-    {
-      "basename": "All Literature Notes",
-      "path": "All Literature Notes.md"
     },
     {
       "basename": "@weissTunableMetasurfaceUsing2022",
@@ -111,6 +31,10 @@
     {
       "basename": "Electromagnetic Analysis Using FDTD",
       "path": "Electromagnetic Analysis Using FDTD.md"
+    },
+    {
+      "basename": "alias",
+      "path": "templates/alias.md"
     },
     {
       "basename": "@rodriguez-sevillaOpticalTrappingBiosensing2017",
@@ -127,6 +51,10 @@
     {
       "basename": "Finite Difference Time Domain",
       "path": "Finite Difference Time Domain.md"
+    },
+    {
+      "basename": "Course - Optical Sensors",
+      "path": "Course - Optical Sensors.md"
     },
     {
       "basename": "@wangPlasmofluidicsMergingLight2015",
@@ -153,6 +81,10 @@
       "path": "Attachments/images/Pasted image 20220202064559.png"
     },
     {
+      "basename": "localised surface plasmon resonance",
+      "path": "localised surface plasmon resonance.md"
+    },
+    {
       "basename": "Metasurfaces",
       "path": "Metasurfaces.md"
     },
@@ -167,6 +99,10 @@
     {
       "basename": "delete",
       "path": "periodic-notes/daily-notes/delete.md"
+    },
+    {
+      "basename": "2021-06-25",
+      "path": "periodic-notes/daily-notes/2021-06-25.md"
     },
     {
       "basename": "2022-01-20",
@@ -189,6 +125,10 @@
       "path": "Desktop Configuration APP Lab.md"
     },
     {
+      "basename": "Sensor Fabrication and Characterization",
+      "path": "Sensor Fabrication and Characterization.md"
+    },
+    {
       "basename": "biorecognition element",
       "path": "biorecognition element.md"
     },
@@ -199,6 +139,50 @@
     {
       "basename": "2021-10-16",
       "path": "periodic-notes/daily-notes/2021-10-16.md"
+    },
+    {
+      "basename": "2021-10-15",
+      "path": "periodic-notes/daily-notes/2021-10-15.md"
+    },
+    {
+      "basename": "2021-10-14",
+      "path": "periodic-notes/daily-notes/2021-10-14.md"
+    },
+    {
+      "basename": "2021-10-13",
+      "path": "periodic-notes/daily-notes/2021-10-13.md"
+    },
+    {
+      "basename": "2021-10-07",
+      "path": "periodic-notes/daily-notes/2021-10-07.md"
+    },
+    {
+      "basename": "2021-10-06",
+      "path": "periodic-notes/daily-notes/2021-10-06.md"
+    },
+    {
+      "basename": "Wavelength range for different regions of EM spectra",
+      "path": "Wavelength range for different regions of EM spectra.md"
+    },
+    {
+      "basename": "transducer",
+      "path": "transducer.md"
+    },
+    {
+      "basename": "Templater Scripts",
+      "path": "Templater Scripts.md"
+    },
+    {
+      "basename": "Single Mode Fiber",
+      "path": "Single Mode Fiber.md"
+    },
+    {
+      "basename": "Sensors Introduction",
+      "path": "Sensors Introduction.md"
+    },
+    {
+      "basename": "2021-12-08",
+      "path": "periodic-notes/daily-notes/2021-12-08.md"
     }
   ],
   "omittedPaths": [],

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "76b73b51b57ce1bc",
+        "id": "14680de2e50490e7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,16 +19,23 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5e9bc22bfda9b054",
+    "id": "9e9e1a0333fe81d5",
     "type": "split",
     "children": [
       {
-        "id": "5b2e67481c7898ba",
+        "id": "4f10e62058d057db",
         "type": "tabs",
-        "dimension": 70.56694813027744,
         "children": [
           {
-            "id": "ca93cc3eaee8e7af",
+            "id": "d175de641a617eb6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "56691725c189737a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +43,7 @@
             }
           },
           {
-            "id": "e339c339ebcdb20f",
+            "id": "0bd04e989b8d6372",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,37 +58,29 @@
             }
           }
         ]
-      },
-      {
-        "id": "ef7501449c543008",
-        "type": "tabs",
-        "dimension": 29.43305186972256,
-        "children": [
-          {
-            "id": "f09589e0bc027929",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 300
   },
   "right": {
-    "id": "00b86f85de7a1db7",
+    "id": "008862896a5c6291",
     "type": "split",
     "children": [
       {
-        "id": "191816f204336534",
+        "id": "987cdb1a96430890",
         "type": "tabs",
-        "dimension": 56.09167671893848,
         "children": [
           {
-            "id": "bf4534d61d326179",
+            "id": "861c804d52e10004",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "377fb1f38592d306",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -98,7 +97,7 @@
             }
           },
           {
-            "id": "085c7a233494aedf",
+            "id": "e44cc07edc5cde55",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -109,7 +108,7 @@
             }
           },
           {
-            "id": "acb37db16ae68373",
+            "id": "029b11761acbfed3",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -118,39 +117,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5b6c3382d8e4082d",
-        "type": "tabs",
-        "dimension": 43.90832328106152,
-        "children": [
-          {
-            "id": "5ea91eeac64083a8",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300
   },
-  "active": "76b73b51b57ce1bc",
+  "active": "14680de2e50490e7",
   "lastOpenFiles": [
     "periodic-notes/daily-notes/2022-03-16.md",
-    "periodic-notes/daily-notes/2022-03-15.md",
-    "periodic-notes/daily-notes/2022-03-14.md",
-    "emacs learning.md",
-    "org-mode.md",
-    "periodic-notes/daily-notes/2021-11-29.md",
-    "Section 375.md",
-    "transactions.ledger",
-    "Need for Optical Communication.md",
-    "EM waves.md"
+    "periodic-notes/daily-notes/2022-03-08.md",
+    "templates/periodic-notes/Daily.md",
+    "Basic Optics for Optical Sensing.md",
+    "000 Index.md",
+    "All Literature Notes.md",
+    "Excel - Beginner to Advanced.md",
+    "literature-notes/@weissTunableMetasurfaceUsing2022.md",
+    "Electromagnetic Analysis Using FDTD.md",
+    "periodic-notes/daily-notes/2022-02-18.md"
   ]
 }
