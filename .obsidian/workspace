@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "periodic-notes/daily-notes/2022-03-16.md",
+            "file": "periodic-notes/daily-notes/2022-03-23.md",
             "mode": "source",
             "source": false
           }
@@ -25,6 +25,7 @@
       {
         "id": "4f10e62058d057db",
         "type": "tabs",
+        "dimension": 64.89746682750301,
         "children": [
           {
             "id": "56691725c189737a",
@@ -54,6 +55,7 @@
       {
         "id": "b23c2d398926b0d3",
         "type": "tabs",
+        "dimension": 35.10253317249698,
         "children": [
           {
             "id": "d175de641a617eb6",
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-03-16.md",
+                "file": "periodic-notes/daily-notes/2022-03-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-03-16.md"
+                "file": "periodic-notes/daily-notes/2022-03-23.md"
               }
             }
           }
@@ -131,6 +133,7 @@
   },
   "active": "14680de2e50490e7",
   "lastOpenFiles": [
+    "periodic-notes/daily-notes/2022-03-23.md",
     "periodic-notes/daily-notes/2022-03-16.md",
     "periodic-notes/daily-notes/2022-03-08.md",
     "templates/periodic-notes/Daily.md",
@@ -139,7 +142,6 @@
     "All Literature Notes.md",
     "Excel - Beginner to Advanced.md",
     "literature-notes/@weissTunableMetasurfaceUsing2022.md",
-    "Electromagnetic Analysis Using FDTD.md",
-    "periodic-notes/daily-notes/2022-02-18.md"
+    "Electromagnetic Analysis Using FDTD.md"
   ]
 }
