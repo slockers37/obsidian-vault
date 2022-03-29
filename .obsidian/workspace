@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "008c707247d0550d",
+        "id": "5328772841d296cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "periodic-notes/daily-notes/2022-03-28.md",
+            "file": "periodic-notes/daily-notes/2022-03-29.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-03-28.md",
+                "file": "periodic-notes/daily-notes/2022-03-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-03-28.md"
+                "file": "periodic-notes/daily-notes/2022-03-29.md"
               }
             }
           }
@@ -131,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "008c707247d0550d",
+  "active": "5328772841d296cb",
   "lastOpenFiles": [
-    "periodic-notes/daily-notes/2022-03-28.md",
+    "periodic-notes/daily-notes/2022-03-29.md",
     "periodic-notes/daily-notes/2022-03-16.md",
+    "templates/periodic-notes/Daily.md",
+    "periodic-notes/daily-notes/2022-03-28.md",
     "periodic-notes/daily-notes/2022-03-23.md",
     "periodic-notes/daily-notes/2022-03-08.md",
-    "templates/periodic-notes/Daily.md",
     "Basic Optics for Optical Sensing.md",
     "000 Index.md",
     "All Literature Notes.md",
-    "Excel - Beginner to Advanced.md",
-    "literature-notes/@weissTunableMetasurfaceUsing2022.md"
+    "Excel - Beginner to Advanced.md"
   ]
 }

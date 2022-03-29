@@ -1,12 +1,9 @@
 Go Back: [[Sensors Introduction]]
 
 # Immobilisation/Functionalization
-```ad-note
-title: Immobilisation
-collapse: open
-[[Immobilisation]] means to restrict the motion of a [[molecule]] on a surface. 
-[[Immobilisation]] is in terms of the [[molecule]] whereas [[Functionalisation]] is in terms of the [[substrate]].
-```
+> [!note]+ Immobilisation
+> [[Immobilisation]] means to restrict the motion of a [[molecule]] on a surface. 
+> [[Immobilisation]] is in terms of the [[molecule]] whereas [[Functionalisation]] is in terms of the [[substrate]].
 
 The protocol for this process is that the **supporting surface needs to be stable**. It could be chemical, biological or physical stability. Also support should be **immune to environmental conditions** and should be **non-toxic**.
 

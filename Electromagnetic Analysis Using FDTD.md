@@ -89,11 +89,9 @@ tags: course
     - **test_hw8_prob2.p** — This function is used in Homework #8 to test the values calculated in the update coefficients. See Homework #8 for details.
     - **draw2d.p** — This function is used in two-dimensional FDTD to efficiently visualize the field superimposed onto the materials across the entire grid.
 
-```ad-note
-collapse: open
-
-The above items are protected function files and have a “.p” extension. They work just like “.m” files, but they cannot be opened to view the code inside them.
-
-```
+> [!note]+
+> 
+> The above items are protected function files and have a “.p” extension. They work just like “.m” files, but they cannot be opened to view the code inside them.
+> 
 - ([PDF](https://empossible.net/wp-content/uploads/2020/06/FDTD-Function-Headers.pdf)) Help headers for draw1d(), draw2d() and polyfill().
 
