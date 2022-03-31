@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-03-31",
+      "path": "periodic-notes/daily-notes/2022-03-31.md"
+    },
+    {
+      "basename": "Daily",
+      "path": "templates/periodic-notes/Daily.md"
+    },
+    {
       "basename": "2022-03-29",
       "path": "periodic-notes/daily-notes/2022-03-29.md"
     },
     {
       "basename": "2022-03-16",
       "path": "periodic-notes/daily-notes/2022-03-16.md"
-    },
-    {
-      "basename": "Daily",
-      "path": "templates/periodic-notes/Daily.md"
     },
     {
       "basename": "Basic Optics for Optical Sensing",

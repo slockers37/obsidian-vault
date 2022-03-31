@@ -11,5 +11,6 @@
   "minimal-style@@h5-variant": "small-caps",
   "minimal-style@@h6-variant": "small-caps",
   "mk-absolve@@mk-design-scheme": "mk-academia",
-  "primary-ceciliamay@@header-color__preset": "header-color__yrb"
+  "primary-ceciliamay@@header-color__preset": "header-color__yrb",
+  "primary-ceciliamay@@multicolor-highlight": true
 }
