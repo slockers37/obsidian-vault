@@ -7,7 +7,7 @@
 	- Other approaches include [[thermo-optic effect]], phase changing media, structural reconfigurations and electrochemical or chemical reactions. These approaches demonstrate changes in RI but their reponse is typically slow which makes it difficult to be used for communication or [[LIDAR]] technologies.
 	- [[Electro-Optic effect]] can also be used for high speed modulation but the modulation strength is usually low. 
 - LiNbO3 has high EO coefficients of $r_{33} = 31.45\ pm/V$ in the extraordinary axis and $r_{13} = 10.12\ pm/V$ in the ordinary axis. Also it has a wide optical transparency range of about $0.35 - 4.5\ \mu m$ and high speed modulation rate of $100\ GHz$. 
-- Current optical modulators operate in hundred of gigahertz range but it is realized in photonic waveguides so in this paper, optical modulator is realized in free space using [[Electro-Optic effect|Pockels effect]] in LiNbO3.
+- Current optical modulators operate in hundred of gigahertz range but it is realized in photonic waveguides so in this paper, optical modulator is realized **in free space** using [[Electro-Optic effect|Pockels effect]] in LiNbO3.
 
 ## Device Design and Working Principle
 ![[Pasted image 20220202064559.png]]

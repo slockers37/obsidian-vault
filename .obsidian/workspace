@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "periodic-notes/daily-notes/2022-03-31.md",
+            "file": "literature-notes/@weissTunableMetasurfaceUsing2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6dff6556d373537a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-03-31.md",
+                "file": "literature-notes/@weissTunableMetasurfaceUsing2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-03-31.md"
+                "file": "literature-notes/@weissTunableMetasurfaceUsing2022.md"
               }
             }
           }
@@ -133,15 +145,15 @@
   },
   "active": "5328772841d296cb",
   "lastOpenFiles": [
+    "literature-notes/@weissTunableMetasurfaceUsing2022.md",
+    "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
+    "All Literature Notes.md",
     "periodic-notes/daily-notes/2022-03-31.md",
     "templates/periodic-notes/Daily.md",
     "periodic-notes/daily-notes/2022-03-29.md",
     "periodic-notes/daily-notes/2022-03-16.md",
     "periodic-notes/daily-notes/2022-03-28.md",
     "periodic-notes/daily-notes/2022-03-23.md",
-    "periodic-notes/daily-notes/2022-03-08.md",
-    "Basic Optics for Optical Sensing.md",
-    "000 Index.md",
-    "All Literature Notes.md"
+    "periodic-notes/daily-notes/2022-03-08.md"
   ]
 }
