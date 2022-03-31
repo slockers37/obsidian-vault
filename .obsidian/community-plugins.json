@@ -20,5 +20,7 @@
   "obsidian-checklist-plugin",
   "obsidian-orthography",
   "obsidian-git",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "obsidian-admonition",
+  "obsidian-hover-editor"
 ]
