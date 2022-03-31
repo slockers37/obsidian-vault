@@ -1,8 +1,8 @@
 {
   "baseFontSize": 18,
-  "cssTheme": "LYT Mode",
+  "cssTheme": "Primary",
   "enabledCssSnippets": [],
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSizeAction": true,
   "translucency": false
 }
