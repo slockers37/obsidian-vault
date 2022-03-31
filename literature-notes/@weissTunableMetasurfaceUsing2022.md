@@ -17,7 +17,7 @@
 	- [[surface lattice resonance|SLR]] is due to the periodic arrangement of the NPs under the condition that the spacing between the NPs can hold a standing wave. Resonance wavelength can be determined by $$\lambda = na,$$where $n$ is the RI of the lattice environment and $a$ is the periodicity of the lattice.
 	- FP resonance is due to the cavity between the Cr/Au layer and ITO layer. The resonace wavelength for a nonsymmetrical cavity is found using the [[Fresnel coefficients]] for which the [[electric field]] experiences a destructive [[interference]] in the reflected beam from the top ITO layer.
 - All of these resonances can be coupled together for maximum field enhancement by optimising the parameters such as **thickness of LiNbO3 film, height and diameter of nanodisk and period between the nanodisks**.
-- Although it seems that each phenomenon is affected by different parameters of the structure, they are all coupled together, hence, a mismatch in one parameter can easily decouple all of the resonances. Therefore, precise parameter optimization is required for maximizing the field enhancement in LiNbO. For simplicity and symmetry considerations, aluminum disks were chosen as the basic shape of the metaatoms comprising the array. With this choice of materials and shapes, the device still comprises four fundamental parameters that influence the resonance matching: the thickness of the LiNbO thin film, the period between two adjacent nanodisks, and the height and diameter of the nanodisk.
+- 
 
 
 
