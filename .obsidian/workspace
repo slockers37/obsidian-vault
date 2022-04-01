@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
+            "file": "literature-notes/@weissTunableMetasurfaceUsing2022.md",
             "mode": "source",
             "source": false
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
+                "file": "literature-notes/@weissTunableMetasurfaceUsing2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md"
+                "file": "literature-notes/@weissTunableMetasurfaceUsing2022.md"
               }
             }
           }
@@ -145,8 +145,8 @@
   },
   "active": "5328772841d296cb",
   "lastOpenFiles": [
-    "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
     "literature-notes/@weissTunableMetasurfaceUsing2022.md",
+    "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
     "Electro-Optic effect.md",
     "localised surface plasmon resonance.md",
     "surface lattice resonance.md",
