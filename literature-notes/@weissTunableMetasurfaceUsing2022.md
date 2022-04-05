@@ -17,6 +17,11 @@
 	- [[surface lattice resonance|SLR]] is due to the periodic arrangement of the NPs under the condition that the spacing between the NPs can hold a standing wave. Resonance wavelength can be determined by $$\lambda = na,$$where $n$ is the RI of the lattice environment and $a$ is the periodicity of the lattice.
 	- FP resonance is due to the cavity between the Cr/Au layer and ITO layer. The resonace wavelength for a nonsymmetrical cavity is found using the [[Fresnel coefficients]] for which the [[electric field]] experiences a destructive [[interference]] in the reflected beam from the top ITO layer.
 - All of these resonances can be coupled together for maximum field enhancement by optimising the parameters such as **thickness of LiNbO3 film, height and diameter of nanodisk and period between the nanodisks**.
+
+![[Pasted image 20220405152606.png]]
+
+- To see how changing a single parameter changes the resonance wavelength and resonance shape, fig. 2(a) is shown. It shows the reflection intensity variation with wavelength ranging from $1.1\mu$ to $1.8\mu$ and LiNbO thickness variation ranging from $250nm$ to $600nm$. 
+	- As can be seen, the LiNbO thickness has a strong effect on the depth and spectral position of the central resonance wavelength. As we detune the thickness further away from the optimum, the resonance matching depreciates up to a point where the resonance vanishes completely.
 - 
 
 
