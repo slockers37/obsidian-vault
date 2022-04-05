@@ -22,7 +22,7 @@
 
 - To see how changing a single parameter changes the resonance wavelength and resonance shape, fig. 2(a) is shown. It shows the reflection intensity variation with wavelength ranging from $1.1\mu$ to $1.8\mu$ and LiNbO thickness variation ranging from $250nm$ to $600nm$. 
 	- As can be seen, the LiNbO thickness has a strong effect on the depth and spectral position of the central resonance wavelength. As we detune the thickness further away from the optimum, the resonance matching depreciates up to a point where the resonance vanishes completely.
-- 
+- [] 
 
 
 
