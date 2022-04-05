@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5328772841d296cb",
+        "id": "a7851acfe21fc150",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "literature-notes/@weissTunableMetasurfaceUsing2022.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6dff6556d373537a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
             "mode": "source",
             "source": false
           }
@@ -143,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5328772841d296cb",
+  "active": "a7851acfe21fc150",
   "lastOpenFiles": [
     "literature-notes/@weissTunableMetasurfaceUsing2022.md",
+    "000 Index.md",
+    "literature-notes/toropovReviewBiosensingWhisperinggallery2021a.md",
+    "toropovReviewBiosensingWhisperinggallery2021a.md",
+    "literature-notes/@wangPlasmofluidicsMergingLight2015.md",
+    "literature-notes/@tranApplicationsSurfaceSecond2017.md",
     "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
+    "literature-notes/@toropovReviewBiosensingWhisperinggallery2021a.md",
     "Electro-Optic effect.md",
-    "localised surface plasmon resonance.md",
-    "surface lattice resonance.md",
-    "All Literature Notes.md",
-    "periodic-notes/daily-notes/2022-03-31.md",
-    "templates/periodic-notes/Daily.md",
-    "periodic-notes/daily-notes/2022-03-29.md",
-    "periodic-notes/daily-notes/2022-03-16.md"
+    "localised surface plasmon resonance.md"
   ]
 }
