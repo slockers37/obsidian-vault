@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "literature-notes/@weissTunableMetasurfaceUsing2022.md",
+            "file": "periodic-notes/daily-notes/2022-04-06.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature-notes/@weissTunableMetasurfaceUsing2022.md",
+                "file": "periodic-notes/daily-notes/2022-04-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature-notes/@weissTunableMetasurfaceUsing2022.md"
+                "file": "periodic-notes/daily-notes/2022-04-06.md"
               }
             }
           }
@@ -133,6 +133,7 @@
   },
   "active": "fb47056037d13b82",
   "lastOpenFiles": [
+    "periodic-notes/daily-notes/2022-04-06.md",
     "literature-notes/@weissTunableMetasurfaceUsing2022.md",
     "000 Index.md",
     "Autumn Semester PhD (2021-22).md",
@@ -141,7 +142,6 @@
     "toropovReviewBiosensingWhisperinggallery2021a.md",
     "literature-notes/@wangPlasmofluidicsMergingLight2015.md",
     "literature-notes/@tranApplicationsSurfaceSecond2017.md",
-    "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
-    "literature-notes/@toropovReviewBiosensingWhisperinggallery2021a.md"
+    "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md"
   ]
 }
