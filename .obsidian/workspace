@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266.5
   },
   "right": {
     "id": "008862896a5c6291",
@@ -129,19 +129,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269.5
   },
   "active": "fb47056037d13b82",
   "lastOpenFiles": [
     "literature-notes/@weissTunableMetasurfaceUsing2022.md",
     "000 Index.md",
+    "Autumn Semester PhD (2021-22).md",
+    "Spring Semester PhD (2021-22).md",
     "literature-notes/toropovReviewBiosensingWhisperinggallery2021a.md",
     "toropovReviewBiosensingWhisperinggallery2021a.md",
     "literature-notes/@wangPlasmofluidicsMergingLight2015.md",
     "literature-notes/@tranApplicationsSurfaceSecond2017.md",
     "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
-    "literature-notes/@toropovReviewBiosensingWhisperinggallery2021a.md",
-    "Electro-Optic effect.md",
-    "localised surface plasmon resonance.md"
+    "literature-notes/@toropovReviewBiosensingWhisperinggallery2021a.md"
   ]
 }
