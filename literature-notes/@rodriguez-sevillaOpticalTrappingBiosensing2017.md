@@ -13,7 +13,7 @@
 		- Another approach for optical force enhancement would be coating. Coating with metallic NPs has yielded great results.
 		- Finally, other strategies would include modification of shape of trapping laser beam. Underfilling of objective lens optimizes trap stiffness.
 	- Nanoparticles
-		- Trapping of NPs is difficult due to the decrease in optical force with particle volume. Two possible approaches for increasing the optical force are reducing the optical trap volume and modifying the surface of the NP.
+		- Trapping of NPs is difficult due to the decrease in optical force with particle volume. Two possible approaches for increasing the optical force are  reducing the optical trap volume and modifying the surface of the NP.
 		- Reduction of optical trapping volume can be done using plasmonic nanoantenna or photonic crystal resonator but these techniques require accurate and complex fabrication processes so they are not easy to implement. We can use plasmonic nanojets however to reduce optical trap volume where microspheres are used as microlens to focus the beam with a waist under Abbe diffraction limit.
 		- Modifying the surface of NPs for increasing optical force is another method. Gradient and Scattering optical forces scale linearly and quadratically with polarizability where polarizability of a NP depends on its surface charge so replacing the cationic species on UCNP surface with more mobile ones in solution increases the trapping stiffness by about 50 times.
 
