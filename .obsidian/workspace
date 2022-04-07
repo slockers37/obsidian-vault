@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
+            "file": "periodic-notes/daily-notes/2022-04-08.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "933596b78f05bdfa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "periodic-notes/daily-notes/2022-04-07.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
+                "file": "periodic-notes/daily-notes/2022-04-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md"
+                "file": "periodic-notes/daily-notes/2022-04-08.md"
               }
             }
           }
@@ -133,15 +145,15 @@
   },
   "active": "fb47056037d13b82",
   "lastOpenFiles": [
-    "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
+    "periodic-notes/daily-notes/2022-04-08.md",
     "periodic-notes/daily-notes/2022-04-07.md",
+    "000 Index.md",
+    "periodic-notes/daily-notes/2022-03-29.md",
+    "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md",
     "templates/periodic-notes/Daily.md",
     "periodic-notes/daily-notes/2022-04-06.md",
     "literature-notes/@weissTunableMetasurfaceUsing2022.md",
     "Metasurfaces.md",
-    "Biosensor.md",
-    "000 Index.md",
-    "Autumn Semester PhD (2021-22).md",
-    "Spring Semester PhD (2021-22).md"
+    "Biosensor.md"
   ]
 }
