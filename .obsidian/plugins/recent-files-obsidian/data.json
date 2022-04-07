@@ -5,6 +5,10 @@
       "path": "periodic-notes/daily-notes/2022-04-07.md"
     },
     {
+      "basename": "Daily",
+      "path": "templates/periodic-notes/Daily.md"
+    },
+    {
       "basename": "2022-04-06",
       "path": "periodic-notes/daily-notes/2022-04-06.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "2022-03-31",
       "path": "periodic-notes/daily-notes/2022-03-31.md"
-    },
-    {
-      "basename": "Daily",
-      "path": "templates/periodic-notes/Daily.md"
     },
     {
       "basename": "2022-03-29",

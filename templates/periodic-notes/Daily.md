@@ -4,7 +4,7 @@
 
 ---
 
-### Hey Sumon, Whats On Your Mind?
+### Hey Sumon, What's On Your Mind?
 
 - 
 
