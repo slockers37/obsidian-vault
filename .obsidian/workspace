@@ -31,11 +31,9 @@
         "id": "5511415a6c19ddc5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "periodic-notes/daily-notes/2022-04-08.md",
-            "mode": "source",
-            "source": false
+            "file": "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md"
           }
         }
       },
@@ -55,103 +53,125 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a9cbe21afe766e88",
-    "type": "mobile-drawer",
+    "id": "9e9e1a0333fe81d5",
+    "type": "split",
     "children": [
       {
-        "id": "598ae19acde6259f",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
-      },
-      {
-        "id": "f0727d26db7100ab",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "7eedf83f8e545789",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "4f10e62058d057db",
+        "type": "tabs",
+        "dimension": 64.89746682750301,
+        "children": [
+          {
+            "id": "56691725c189737a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0bd04e989b8d6372",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       },
       {
-        "id": "bb29bb270be54920",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
+        "id": "b23c2d398926b0d3",
+        "type": "tabs",
+        "dimension": 35.10253317249698,
+        "children": [
+          {
+            "id": "d175de641a617eb6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 266.5
   },
   "right": {
-    "id": "0a0016db7a3090c0",
-    "type": "mobile-drawer",
+    "id": "008862896a5c6291",
+    "type": "split",
     "children": [
       {
-        "id": "3ba32aac5de33a0c",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "214b994cbfd6f219",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "periodic-notes/daily-notes/2022-04-08.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "987cdb1a96430890",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "861c804d52e10004",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "377fb1f38592d306",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "periodic-notes/daily-notes/2022-04-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e44cc07edc5cde55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "029b11761acbfed3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "periodic-notes/daily-notes/2022-04-07.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "4d453003b5f043b3",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "periodic-notes/daily-notes/2022-04-08.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 270.5
   },
-  "active": "5511415a6c19ddc5",
+  "active": "933596b78f05bdfa",
   "lastOpenFiles": [
+    "periodic-notes/daily-notes/2022-04-07.md",
     "periodic-notes/daily-notes/2022-04-08.md",
-    "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md",
     "literature-notes/@zhaoSelfreferencedRefractive2022.md",
     "000 Index.md",
-    "periodic-notes/daily-notes/2022-04-07.md",
+    "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md",
     "Autumn Semester PhD (2021-22).md",
     "Double Dip Method.md",
     "Attachments/Double Dip Method 2022-04-08 10.13.25.excalidraw.md",
