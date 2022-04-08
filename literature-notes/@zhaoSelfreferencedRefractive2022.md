@@ -33,7 +33,7 @@ Sensitivity has been calculated using the [[Double Dip Method]](DDM).
 ### Further References to look at
 - [Improving the sensitivity of SPR sensors based on gratings by double-dips method (DDM)](https://bit.ly/3ugkAS5)
 - [Tuning and sensitivity enhancement of surface plasmon resonance sensor](https://bit.ly/3JjaxzR)
-- 
+
 
 
 ---
