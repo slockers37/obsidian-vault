@@ -4,11 +4,26 @@ Enhancement of sensitivity of traditional prism based SPR sensors in angular int
 
 ![[Pasted image 20220408072944.png]]
 
+> [!note]- Parameters for above structure
+> $d_1 = 20nm$
+> $d_2 = 56nm$
+> $d_3 = 25nm$
+> $h_1 = 1nm$
+> $h_2 = 90nm$
+> $h_3 = 40nm$
+> $w_1 = 53nm$
+> $w_2 = 106nm$
+> $w_3 = 80.5nm$
+> $P = 320nm$
+> Fill factor is given by $f= \frac{w_1+w_2}{P}$
+
 
 
 
 ### Further References to look at
+- [Improving the sensitivity of SPR sensors based on gratings by double-dips method (DDM)](https://bit.ly/3ugkAS5)
 - [Tuning and sensitivity enhancement of surface plasmon resonance sensor](https://bit.ly/3JjaxzR)
+- 
 
 
 ---
