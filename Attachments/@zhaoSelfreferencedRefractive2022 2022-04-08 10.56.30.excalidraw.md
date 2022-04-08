@@ -18,8 +18,21 @@ however, FOM and $S_{DDM}$ decreases.
 To keep the max sensitivity, sensing range, FOM and $S_{DDM}$ as
 excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 
+Q: Why choose period(P) to be 320nm?
+
+A: Refer to 6(a) fig. At 320nm, 3 SP waves can be generated whereas decreasing the period
+brings down the SP waves to 2. 
+
+As period decreases, stronger plasma wave at Na-MgF2 grating is generated
+while a weaker one at Au-ZnS grating. So, self-reference function is destroyed
+at   angle. 
+
+With increasing period, distance between theta_1 and theta_2 increases while
+theta_2 and theta_3 merge into one. ^muzORF44
+
 
 # Embedded files
+90b338aaff9388d057d05f1136238c1fc02bee01: $$\theta_1$$
 4ada05e8f975c727c169dd5c7d525d72f1020d47: [[Attachments/Pasted Image 20220408105730_171.png]]
 5035d2f571c63b9d247aa25fc40315391a473f37: [[Attachments/Pasted Image 20220408105809_825.png]]
 50d11ec4f97c920211aa15a2af1974609a49a63f: [[Attachments/Pasted Image 20220408105958_510.png]]
@@ -200,10 +213,10 @@ excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 		{
 			"id": "3ovg_InqpxIoC81ClA868",
 			"type": "image",
-			"x": -187.5621157427742,
-			"y": 251.34940833905677,
-			"width": 268.0207426111141,
-			"height": 254.80583099626054,
+			"x": -657.0319818142027,
+			"y": 353.0403069315669,
+			"width": 569.4604747539711,
+			"height": 541.3829096792961,
 			"angle": 0,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -215,11 +228,16 @@ excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 316859858,
-			"version": 193,
-			"versionNonce": 2118802510,
+			"version": 468,
+			"versionNonce": 1639527182,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1649405354936,
+			"boundElements": [
+				{
+					"id": "tjx7hmqz_jNDEraxvf7fp",
+					"type": "arrow"
+				}
+			],
+			"updated": 1649407009788,
 			"link": null,
 			"status": "pending",
 			"fileId": "0f42cbd3efb6939d0f1e53320a6d5b1fd4b7620d",
@@ -231,10 +249,10 @@ excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 		{
 			"id": "zW4czZNrM3nYdavWGaxEf",
 			"type": "image",
-			"x": -679.1475886323387,
-			"y": 87.20669964800771,
-			"width": 462.4959189524437,
-			"height": 245.05860150049622,
+			"x": -898.7848654180532,
+			"y": -46.86315557272633,
+			"width": 585.5204725238721,
+			"height": 310.2445281498017,
 			"angle": 0,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -246,11 +264,11 @@ excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 535506834,
-			"version": 695,
-			"versionNonce": 781996558,
+			"version": 760,
+			"versionNonce": 1913363090,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1649399701482,
+			"updated": 1649407013554,
 			"link": null,
 			"status": "pending",
 			"fileId": "23b61b40db16bc8e554d7a989a97cde3423d2a6a",
@@ -262,8 +280,8 @@ excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 		{
 			"id": "GJ8Uj291u9THcdBkbe4yA",
 			"type": "image",
-			"x": -1135.0471639475209,
-			"y": 184.4717317350612,
+			"x": -1459.5226103760922,
+			"y": 329.2931603064897,
 			"width": 412.9753787589974,
 			"height": 335.8292836991569,
 			"angle": 0,
@@ -277,11 +295,11 @@ excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 639941454,
-			"version": 408,
-			"versionNonce": 62400338,
+			"version": 448,
+			"versionNonce": 1229843154,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1649399699665,
+			"updated": 1649407006872,
 			"link": null,
 			"status": "pending",
 			"fileId": "0ed3dce74704883869093fbfe142174d9b09e95d",
@@ -293,8 +311,8 @@ excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 		{
 			"id": "mqBlDeIk",
 			"type": "text",
-			"x": 144.3098410882434,
-			"y": 399.78752504006366,
+			"x": 261.0620732311005,
+			"y": 458.54310539720655,
 			"width": 692,
 			"height": 225,
 			"angle": 0,
@@ -308,8 +326,8 @@ excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1277535438,
-			"version": 697,
-			"versionNonce": 1393559378,
+			"version": 755,
+			"versionNonce": 1637287762,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -317,7 +335,7 @@ excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 					"type": "arrow"
 				}
 			],
-			"updated": 1649405295056,
+			"updated": 1649406995474,
 			"link": null,
 			"text": "Q: Why choose 1190nm as operating wavelength?\n\nA: Have a look at the accompanying fig. As you can see,\nchanging the operating wavelength varies a lot of parameters -\nSensing range and Max sensitivity increases with larger wavelengths,\nhowever, FOM and $S_{DDM}$ decreases. \n\nTo keep the max sensitivity, sensing range, FOM and $S_{DDM}$ as\nexcellent as possible, 1190nm was chosen as operating wavelength.",
 			"rawText": "Q: Why choose 1190nm as operating wavelength?\n\nA: Have a look at the accompanying fig. As you can see,\nchanging the operating wavelength varies a lot of parameters -\nSensing range and Max sensitivity increases with larger wavelengths,\nhowever, FOM and $S_{DDM}$ decreases. \n\nTo keep the max sensitivity, sensing range, FOM and $S_{DDM}$ as\nexcellent as possible, 1190nm was chosen as operating wavelength.",
@@ -332,10 +350,10 @@ excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 		{
 			"id": "D0BdKWkNpH2OwET0pveRO",
 			"type": "arrow",
-			"x": 290.2333773863468,
-			"y": 387.65806075434955,
-			"width": 55.15973879908711,
-			"height": 30.325388530474015,
+			"x": 372.87132248489513,
+			"y": 446.41364111149244,
+			"width": 80.31554669577815,
+			"height": 89.0809688876169,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -347,11 +365,11 @@ excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1373673298,
-			"version": 1506,
-			"versionNonce": 502746386,
+			"version": 1622,
+			"versionNonce": 1134447890,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1649405295056,
+			"updated": 1649406995474,
 			"link": null,
 			"points": [
 				[
@@ -359,8 +377,8 @@ excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 					0
 				],
 				[
-					55.15973879908711,
-					-30.325388530474015
+					80.31554669577815,
+					-89.0809688876169
 				]
 			],
 			"lastCommittedPoint": [
@@ -379,6 +397,126 @@ excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "muzORF44",
+			"type": "text",
+			"x": 45.3244189275041,
+			"y": 815.8086816287002,
+			"width": 931,
+			"height": 275,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 544143630,
+			"version": 709,
+			"versionNonce": 1142994382,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "tjx7hmqz_jNDEraxvf7fp",
+					"type": "arrow"
+				}
+			],
+			"updated": 1649407062976,
+			"link": null,
+			"text": "Q: Why choose period(P) to be 320nm?\n\nA: Refer to 6(a) fig. At 320nm, 3 SP waves can be generated whereas decreasing the period\nbrings down the SP waves to 2. \n\nAs period decreases, stronger plasma wave at Na-MgF2 grating is generated\nwhile a weaker one at Au-ZnS grating. So, self-reference function is destroyed\nat   angle. \n\nWith increasing period, distance between theta_1 and theta_2 increases while\ntheta_2 and theta_3 merge into one.",
+			"rawText": "Q: Why choose period(P) to be 320nm?\n\nA: Refer to 6(a) fig. At 320nm, 3 SP waves can be generated whereas decreasing the period\nbrings down the SP waves to 2. \n\nAs period decreases, stronger plasma wave at Na-MgF2 grating is generated\nwhile a weaker one at Au-ZnS grating. So, self-reference function is destroyed\nat   angle. \n\nWith increasing period, distance between theta_1 and theta_2 increases while\ntheta_2 and theta_3 merge into one.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 268,
+			"containerId": null,
+			"originalText": "Q: Why choose period(P) to be 320nm?\n\nA: Refer to 6(a) fig. At 320nm, 3 SP waves can be generated whereas decreasing the period\nbrings down the SP waves to 2. \n\nAs period decreases, stronger plasma wave at Na-MgF2 grating is generated\nwhile a weaker one at Au-ZnS grating. So, self-reference function is destroyed\nat   angle. \n\nWith increasing period, distance between theta_1 and theta_2 increases while\ntheta_2 and theta_3 merge into one."
+		},
+		{
+			"id": "tjx7hmqz_jNDEraxvf7fp",
+			"type": "arrow",
+			"x": 30.81900280817939,
+			"y": 896.9894926958939,
+			"width": 99.48556742356506,
+			"height": 106.19260748666704,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 827558158,
+			"version": 1683,
+			"versionNonce": 59168654,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1649407034165,
+			"link": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-99.48556742356506,
+					-106.19260748666704
+				]
+			],
+			"lastCommittedPoint": [
+				-182.25446428571422,
+				-123.90625
+			],
+			"startBinding": {
+				"elementId": "muzORF44",
+				"gap": 14.50541611932481,
+				"focus": -0.717419501876276
+			},
+			"endBinding": {
+				"elementId": "3ovg_InqpxIoC81ClA868",
+				"gap": 18.904942444845968,
+				"focus": -0.2732953992383544
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "ZzvuTumu",
+			"type": "image",
+			"x": 148.03870464178596,
+			"y": 934.1166929587323,
+			"width": 16,
+			"height": 15,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"strokeSharpness": "sharp",
+			"seed": 39565,
+			"version": 88,
+			"versionNonce": 461656462,
+			"updated": 1649406890682,
+			"isDeleted": false,
+			"groupIds": [],
+			"boundElements": [],
+			"link": null,
+			"fileId": "90b338aaff9388d057d05f1136238c1fc02bee01",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
