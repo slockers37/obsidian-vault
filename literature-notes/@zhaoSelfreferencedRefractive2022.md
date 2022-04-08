@@ -17,6 +17,15 @@ Enhancement of sensitivity of traditional prism based SPR sensors in angular int
 > $P = 320nm$
 > Fill factor is given by $f= \frac{w_1+w_2}{P}$
 
+> [!seealso]- Have a look at
+> Double groove grating
+> Double Dip method
+> Why is MgF2 used?
+> Why use LaSF35 prism?
+> Why use Na, Au, ZnS?
+> Why use wavelength of 1190nm?
+
+Sensitivity has been calculated using the [[Double Dip Method]](DDM).
 
 
 

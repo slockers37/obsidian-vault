@@ -5,6 +5,10 @@
       "path": "literature-notes/@zhaoSelfreferencedRefractive2022.md"
     },
     {
+      "basename": "Double Dip Method",
+      "path": "Double Dip Method.md"
+    },
+    {
       "basename": "2022-04-08",
       "path": "periodic-notes/daily-notes/2022-04-08.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Templater Scripts",
       "path": "Templater Scripts.md"
-    },
-    {
-      "basename": "Single Mode Fiber",
-      "path": "Single Mode Fiber.md"
-    },
-    {
-      "basename": "Sensors Introduction",
-      "path": "Sensors Introduction.md"
     }
   ],
   "omittedPaths": [],
