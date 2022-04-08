@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "@zhaoSelfreferencedRefractive2022",
+      "path": "literature-notes/@zhaoSelfreferencedRefractive2022.md"
+    },
+    {
       "basename": "2022-04-08",
       "path": "periodic-notes/daily-notes/2022-04-08.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sensors Introduction",
       "path": "Sensors Introduction.md"
-    },
-    {
-      "basename": "2021-12-08",
-      "path": "periodic-notes/daily-notes/2021-12-08.md"
     }
   ],
   "omittedPaths": [],

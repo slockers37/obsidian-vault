@@ -1,5 +1,9 @@
 ## Notes
-Used gratings of two types
+### Intro
+Enhancement of sensitivity of traditional prism based SPR sensors in angular interrogation is limited from $94.46\ deg/RIU$ to $204.41\ deg/RIU$, while the FWHM increases from $2.24°$ to $4.36°$. 
+
+![[Pasted image 20220408072944.png]]
+
 
 
 
