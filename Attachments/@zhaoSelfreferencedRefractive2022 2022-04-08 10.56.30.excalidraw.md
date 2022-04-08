@@ -8,6 +8,16 @@ tags: [excalidraw]
 
 
 # Text Elements
+Q: Why choose 1190nm as operating wavelength?
+
+A: Have a look at the accompanying fig. As you can see,
+changing the operating wavelength varies a lot of parameters -
+Sensing range and Max sensitivity increases with larger wavelengths,
+however, FOM and $S_{DDM}$ decreases. 
+
+To keep the max sensitivity, sensing range, FOM and $S_{DDM}$ as
+excellent as possible, 1190nm was chosen as operating wavelength. ^mqBlDeIk
+
 
 # Embedded files
 4ada05e8f975c727c169dd5c7d525d72f1020d47: [[Attachments/Pasted Image 20220408105730_171.png]]
@@ -154,8 +164,8 @@ tags: [excalidraw]
 		{
 			"id": "YscfAJMJM02qCmrMiNmTv",
 			"type": "image",
-			"x": 104.47379526801006,
-			"y": 76.86088622748784,
+			"x": 283.5083934822956,
+			"y": 91.10195765605928,
 			"width": 466.65226966566235,
 			"height": 251.79778717376362,
 			"angle": 0,
@@ -169,11 +179,16 @@ tags: [excalidraw]
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 348023502,
-			"version": 502,
-			"versionNonce": 1106141458,
+			"version": 541,
+			"versionNonce": 1180871634,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1649399693039,
+			"boundElements": [
+				{
+					"id": "D0BdKWkNpH2OwET0pveRO",
+					"type": "arrow"
+				}
+			],
+			"updated": 1649405292389,
 			"link": null,
 			"status": "pending",
 			"fileId": "385a5064d166993db17c810b4bb2df940ee0def1",
@@ -186,7 +201,7 @@ tags: [excalidraw]
 			"id": "3ovg_InqpxIoC81ClA868",
 			"type": "image",
 			"x": -187.5621157427742,
-			"y": 251.5279797676281,
+			"y": 251.34940833905677,
 			"width": 268.0207426111141,
 			"height": 254.80583099626054,
 			"angle": 0,
@@ -200,11 +215,11 @@ tags: [excalidraw]
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 316859858,
-			"version": 192,
-			"versionNonce": 31551694,
+			"version": 193,
+			"versionNonce": 2118802510,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1649399694899,
+			"updated": 1649405354936,
 			"link": null,
 			"status": "pending",
 			"fileId": "0f42cbd3efb6939d0f1e53320a6d5b1fd4b7620d",
@@ -274,6 +289,96 @@ tags: [excalidraw]
 				1,
 				1
 			]
+		},
+		{
+			"id": "mqBlDeIk",
+			"type": "text",
+			"x": 144.3098410882434,
+			"y": 399.78752504006366,
+			"width": 692,
+			"height": 225,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1277535438,
+			"version": 697,
+			"versionNonce": 1393559378,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "D0BdKWkNpH2OwET0pveRO",
+					"type": "arrow"
+				}
+			],
+			"updated": 1649405295056,
+			"link": null,
+			"text": "Q: Why choose 1190nm as operating wavelength?\n\nA: Have a look at the accompanying fig. As you can see,\nchanging the operating wavelength varies a lot of parameters -\nSensing range and Max sensitivity increases with larger wavelengths,\nhowever, FOM and $S_{DDM}$ decreases. \n\nTo keep the max sensitivity, sensing range, FOM and $S_{DDM}$ as\nexcellent as possible, 1190nm was chosen as operating wavelength.",
+			"rawText": "Q: Why choose 1190nm as operating wavelength?\n\nA: Have a look at the accompanying fig. As you can see,\nchanging the operating wavelength varies a lot of parameters -\nSensing range and Max sensitivity increases with larger wavelengths,\nhowever, FOM and $S_{DDM}$ decreases. \n\nTo keep the max sensitivity, sensing range, FOM and $S_{DDM}$ as\nexcellent as possible, 1190nm was chosen as operating wavelength.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 218,
+			"containerId": null,
+			"originalText": "Q: Why choose 1190nm as operating wavelength?\n\nA: Have a look at the accompanying fig. As you can see,\nchanging the operating wavelength varies a lot of parameters -\nSensing range and Max sensitivity increases with larger wavelengths,\nhowever, FOM and $S_{DDM}$ decreases. \n\nTo keep the max sensitivity, sensing range, FOM and $S_{DDM}$ as\nexcellent as possible, 1190nm was chosen as operating wavelength."
+		},
+		{
+			"id": "D0BdKWkNpH2OwET0pveRO",
+			"type": "arrow",
+			"x": 290.2333773863468,
+			"y": 387.65806075434955,
+			"width": 55.15973879908711,
+			"height": 30.325388530474015,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1373673298,
+			"version": 1506,
+			"versionNonce": 502746386,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1649405295056,
+			"link": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					55.15973879908711,
+					-30.325388530474015
+				]
+			],
+			"lastCommittedPoint": [
+				409.4140625,
+				172.0647321428571
+			],
+			"startBinding": {
+				"elementId": "mqBlDeIk",
+				"focus": -0.775458925851328,
+				"gap": 12.129464285714107
+			},
+			"endBinding": {
+				"elementId": "YscfAJMJM02qCmrMiNmTv",
+				"focus": -0.1812833658403234,
+				"gap": 14.432927394052598
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
