@@ -28,6 +28,16 @@
         }
       },
       {
+        "id": "5511415a6c19ddc5",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md"
+          }
+        }
+      },
+      {
         "id": "933596b78f05bdfa",
         "type": "leaf",
         "state": {
@@ -117,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature-notes/@zhaoSelfreferencedRefractive2022.md",
+                "file": "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature-notes/@zhaoSelfreferencedRefractive2022.md"
+                "file": "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md"
               }
             }
           }
@@ -155,8 +165,9 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "1d798cdb8c625d34",
+  "active": "5511415a6c19ddc5",
   "lastOpenFiles": [
+    "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md",
     "literature-notes/@zhaoSelfreferencedRefractive2022.md",
     "Double Dip Method.md",
     "Attachments/Double Dip Method 2022-04-08 10.13.25.excalidraw.md",
@@ -165,7 +176,6 @@
     "periodic-notes/daily-notes/2022-04-07.md",
     "Sachin Kumar Srivastava.md",
     "000 Index.md",
-    "periodic-notes/daily-notes/2022-03-29.md",
-    "literature-notes/@rodriguez-sevillaOpticalTrappingBiosensing2017.md"
+    "periodic-notes/daily-notes/2022-03-29.md"
   ]
 }

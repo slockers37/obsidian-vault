@@ -27,6 +27,7 @@ Enhancement of sensitivity of traditional prism based SPR sensors in angular int
 
 Sensitivity has been calculated using the [[Double Dip Method]](DDM).
 
+![[@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw]]
 
 
 ### Further References to look at
