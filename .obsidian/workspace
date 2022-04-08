@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "periodic-notes/daily-notes/2022-04-07.md",
+            "file": "Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-04-07.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-04-07.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -167,6 +167,7 @@
   },
   "active": "933596b78f05bdfa",
   "lastOpenFiles": [
+    "Untitled.md",
     "periodic-notes/daily-notes/2022-04-07.md",
     "periodic-notes/daily-notes/2022-04-08.md",
     "literature-notes/@zhaoSelfreferencedRefractive2022.md",
@@ -175,7 +176,6 @@
     "Autumn Semester PhD (2021-22).md",
     "Double Dip Method.md",
     "Attachments/Double Dip Method 2022-04-08 10.13.25.excalidraw.md",
-    "biorecognition element.md",
-    "Sachin Kumar Srivastava.md"
+    "biorecognition element.md"
   ]
 }

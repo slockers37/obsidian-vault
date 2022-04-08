@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "2022-04-07",
       "path": "periodic-notes/daily-notes/2022-04-07.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "transducer",
       "path": "transducer.md"
-    },
-    {
-      "basename": "Templater Scripts",
-      "path": "Templater Scripts.md"
     }
   ],
   "omittedPaths": [],
