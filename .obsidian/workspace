@@ -36,6 +36,18 @@
             "file": "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md"
           }
         }
+      },
+      {
+        "id": "2e69d4251c73429c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "periodic-notes/daily-notes/2022-04-07.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-04-08.md",
+                "file": "periodic-notes/daily-notes/2022-04-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-04-08.md"
+                "file": "periodic-notes/daily-notes/2022-04-07.md"
               }
             }
           }
@@ -153,14 +165,14 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "fb47056037d13b82",
+  "active": "2e69d4251c73429c",
   "lastOpenFiles": [
+    "periodic-notes/daily-notes/2022-04-07.md",
+    "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md",
     "periodic-notes/daily-notes/2022-04-08.md",
     "Untitled.md",
-    "periodic-notes/daily-notes/2022-04-07.md",
     "literature-notes/@zhaoSelfreferencedRefractive2022.md",
     "000 Index.md",
-    "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md",
     "Autumn Semester PhD (2021-22).md",
     "Double Dip Method.md",
     "Attachments/Double Dip Method 2022-04-08 10.13.25.excalidraw.md",
