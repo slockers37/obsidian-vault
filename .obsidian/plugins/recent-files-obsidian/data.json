@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-04-07",
-      "path": "periodic-notes/daily-notes/2022-04-07.md"
+      "basename": "2022-04-11",
+      "path": "periodic-notes/daily-notes/2022-04-11.md"
     },
     {
       "basename": "@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw",
       "path": "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md"
+    },
+    {
+      "basename": "2022-04-07",
+      "path": "periodic-notes/daily-notes/2022-04-07.md"
     },
     {
       "basename": "2022-04-08",
@@ -195,10 +199,6 @@
     {
       "basename": "Wavelength range for different regions of EM spectra",
       "path": "Wavelength range for different regions of EM spectra.md"
-    },
-    {
-      "basename": "transducer",
-      "path": "transducer.md"
     }
   ],
   "omittedPaths": [],
