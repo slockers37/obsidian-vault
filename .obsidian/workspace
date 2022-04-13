@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "008862896a5c6291",
@@ -136,6 +135,7 @@
   "active": "05c6d1ef9aec22d8",
   "lastOpenFiles": [
     "literature-notes/@hsuBoundStates2016.md",
+    "Annotations.md",
     "periodic-notes/daily-notes/2022-04-13.md",
     "periodic-notes/daily-notes/2022-04-11.md",
     "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md",
@@ -143,7 +143,6 @@
     "periodic-notes/daily-notes/2022-04-08.md",
     "Untitled.md",
     "literature-notes/@zhaoSelfreferencedRefractive2022.md",
-    "000 Index.md",
-    "Autumn Semester PhD (2021-22).md"
+    "000 Index.md"
   ]
 }
