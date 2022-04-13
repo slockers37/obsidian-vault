@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5511415a6c19ddc5",
+        "id": "8600b4b33093d58b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "periodic-notes/daily-notes/2022-04-11.md",
+            "file": "periodic-notes/daily-notes/2022-04-13.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "05c6d1ef9aec22d8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "literature-notes/@hsuBoundStates2016.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-04-11.md",
+                "file": "literature-notes/@hsuBoundStates2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-04-11.md"
+                "file": "literature-notes/@hsuBoundStates2016.md"
               }
             }
           }
@@ -131,8 +143,10 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "5511415a6c19ddc5",
+  "active": "05c6d1ef9aec22d8",
   "lastOpenFiles": [
+    "literature-notes/@hsuBoundStates2016.md",
+    "periodic-notes/daily-notes/2022-04-13.md",
     "periodic-notes/daily-notes/2022-04-11.md",
     "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md",
     "periodic-notes/daily-notes/2022-04-07.md",
@@ -140,8 +154,6 @@
     "Untitled.md",
     "literature-notes/@zhaoSelfreferencedRefractive2022.md",
     "000 Index.md",
-    "Autumn Semester PhD (2021-22).md",
-    "Double Dip Method.md",
-    "Attachments/Double Dip Method 2022-04-08 10.13.25.excalidraw.md"
+    "Autumn Semester PhD (2021-22).md"
   ]
 }
