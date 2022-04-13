@@ -5,6 +5,10 @@
       "path": "literature-notes/@hsuBoundStates2016.md"
     },
     {
+      "basename": "000 Index",
+      "path": "000 Index.md"
+    },
+    {
       "basename": "2022-04-13",
       "path": "periodic-notes/daily-notes/2022-04-13.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "@zhaoSelfreferencedRefractive2022",
       "path": "literature-notes/@zhaoSelfreferencedRefractive2022.md"
-    },
-    {
-      "basename": "000 Index",
-      "path": "000 Index.md"
     },
     {
       "basename": "Double Dip Method",
