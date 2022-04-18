@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "literature-notes/@hsuBoundStates2016.md",
+            "file": "periodic-notes/daily-notes/2022-04-18.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature-notes/@hsuBoundStates2016.md",
+                "file": "periodic-notes/daily-notes/2022-04-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature-notes/@hsuBoundStates2016.md"
+                "file": "periodic-notes/daily-notes/2022-04-18.md"
               }
             }
           }
@@ -129,11 +129,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "active": "05c6d1ef9aec22d8",
   "lastOpenFiles": [
+    "periodic-notes/daily-notes/2022-04-18.md",
     "literature-notes/@hsuBoundStates2016.md",
     "000 Index.md",
     "Spring Semester PhD (2021-22).md",
@@ -142,7 +142,6 @@
     "periodic-notes/daily-notes/2022-04-11.md",
     "Attachments/@zhaoSelfreferencedRefractive2022 2022-04-08 10.56.30.excalidraw.md",
     "periodic-notes/daily-notes/2022-04-07.md",
-    "periodic-notes/daily-notes/2022-04-08.md",
-    "Untitled.md"
+    "periodic-notes/daily-notes/2022-04-08.md"
   ]
 }
