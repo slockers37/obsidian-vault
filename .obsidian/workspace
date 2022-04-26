@@ -28,12 +28,12 @@
         }
       },
       {
-        "id": "33aaff6917c21cd0",
+        "id": "82e097014529bc09",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md",
+            "file": "BICs' existence defy conventional wisdom.md",
             "mode": "source",
             "source": false
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md",
+                "file": "BICs' existence defy conventional wisdom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md"
+                "file": "BICs' existence defy conventional wisdom.md"
               }
             }
           }
@@ -155,17 +155,17 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "33aaff6917c21cd0",
+  "active": "82e097014529bc09",
   "lastOpenFiles": [
-    "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md",
+    "BICs' existence defy conventional wisdom.md",
     "Bound States in the continuum.md",
+    "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md",
     "Experimental Project for BIC using nSTF dielectric structures.md",
     "periodic-notes/daily-notes/2022-04-26.md",
     "periodic-notes/daily-notes/2022-04-18.md",
     "100 days of Code - The Complete Python Pro Bootcamp for 2021.md",
     "Autumn Semester PhD (2021-22).md",
     "literature-notes/@hsuBoundStates2016.md",
-    "000 Index.md",
-    "Spring Semester PhD (2021-22).md"
+    "000 Index.md"
   ]
 }

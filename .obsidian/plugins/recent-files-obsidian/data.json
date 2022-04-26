@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems",
-      "path": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md"
+      "basename": "BICs' existence defy conventional wisdom",
+      "path": "BICs' existence defy conventional wisdom.md"
     },
     {
       "basename": "Bound States in the continuum",
       "path": "Bound States in the continuum.md"
+    },
+    {
+      "basename": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems",
+      "path": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md"
     },
     {
       "basename": "Experimental Project for BIC using nSTF dielectric structures",
@@ -195,10 +199,6 @@
     {
       "basename": "biorecognition element",
       "path": "biorecognition element.md"
-    },
-    {
-      "basename": "Autumn Semester PhD (2021-22)",
-      "path": "Autumn Semester PhD (2021-22).md"
     }
   ],
   "omittedPaths": [],
