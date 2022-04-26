@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "periodic-notes/daily-notes/2022-04-26.md",
+            "file": "Experimental Project for BIC using nSTF dielectric structures.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4dacdc5be85f7696",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bound States in the continuum.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "33aaff6917c21cd0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-04-26.md",
+                "file": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "periodic-notes/daily-notes/2022-04-26.md"
+                "file": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md"
               }
             }
           }
@@ -131,17 +155,17 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "05c6d1ef9aec22d8",
+  "active": "33aaff6917c21cd0",
   "lastOpenFiles": [
+    "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md",
+    "Bound States in the continuum.md",
+    "Experimental Project for BIC using nSTF dielectric structures.md",
     "periodic-notes/daily-notes/2022-04-26.md",
     "periodic-notes/daily-notes/2022-04-18.md",
     "100 days of Code - The Complete Python Pro Bootcamp for 2021.md",
     "Autumn Semester PhD (2021-22).md",
     "literature-notes/@hsuBoundStates2016.md",
     "000 Index.md",
-    "Spring Semester PhD (2021-22).md",
-    "Annotations.md",
-    "periodic-notes/daily-notes/2022-04-13.md",
-    "periodic-notes/daily-notes/2022-04-11.md"
+    "Spring Semester PhD (2021-22).md"
   ]
 }
