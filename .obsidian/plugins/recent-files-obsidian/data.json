@@ -5,6 +5,10 @@
       "path": "Experimental Project for BIC using nSTF dielectric structures.md"
     },
     {
+      "basename": "000 Index",
+      "path": "000 Index.md"
+    },
+    {
       "basename": "Bound States in the continuum",
       "path": "Bound States in the continuum.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "@hsuBoundStates2016",
       "path": "literature-notes/@hsuBoundStates2016.md"
-    },
-    {
-      "basename": "000 Index",
-      "path": "000 Index.md"
     },
     {
       "basename": "2022-04-13",

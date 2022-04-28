@@ -11,6 +11,7 @@ tags: project/work
 	- [ ] Learn about nSTF and GLAD technique
 - [ ] Make notes on BIC on the side
 
+## Questions
 
 > [!question]- How will we obtain periodicity using nSTF?
 > We could use pre-patterns but that also are made using EBL so tthat's the limitation.
@@ -18,4 +19,5 @@ tags: project/work
 > [!question]- Why is Si being used predominantly for dielectric metasurfaces?
 > This is due to the fact that its refractive index in the optical and near-infrared frequencies is around 3.5. It was demonstrated a few years ago that subwavelength-sized silicon particles can exhibit strong electromagnetic resonances.
 > The strong magnetic response of silicon nanoparticles has recently inspired several research groups to develop all-silicon metasurfaces. This property is in contrast to plasmonic metasurfaces where the magnetic response is negligible.
+
 
