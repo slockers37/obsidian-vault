@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Sensors Introduction",
-      "path": "Sensors Introduction.md"
+      "basename": "Bound States in the continuum",
+      "path": "Bound States in the continuum.md"
+    },
+    {
+      "basename": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems",
+      "path": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md"
     },
     {
       "basename": "Basic Optics for Optical Sensing",
       "path": "Basic Optics for Optical Sensing.md"
+    },
+    {
+      "basename": "Autumn Semester PhD (2021-22)",
+      "path": "Autumn Semester PhD (2021-22).md"
+    },
+    {
+      "basename": "All Literature Notes",
+      "path": "All Literature Notes.md"
+    },
+    {
+      "basename": "100 days of Code - The Complete Python Pro Bootcamp for 2021",
+      "path": "100 days of Code - The Complete Python Pro Bootcamp for 2021.md"
+    },
+    {
+      "basename": "Sensor Fabrication and Characterization",
+      "path": "Sensor Fabrication and Characterization.md"
+    },
+    {
+      "basename": "Sensors Introduction",
+      "path": "Sensors Introduction.md"
     },
     {
       "basename": "Course - Optical Sensors",
@@ -17,8 +41,12 @@
       "path": "000 Index.md"
     },
     {
-      "basename": "Autumn Semester PhD (2021-22)",
-      "path": "Autumn Semester PhD (2021-22).md"
+      "basename": "transducer",
+      "path": "transducer.md"
+    },
+    {
+      "basename": "Sensors Introduction_2021-11-10 16.02.10.excalidraw",
+      "path": "Excalidraw/Sensors Introduction_2021-11-10 16.02.10.excalidraw.md"
     },
     {
       "basename": "Spring Semester PhD (2021-22)",
@@ -35,10 +63,6 @@
     {
       "basename": "Templater Scripts",
       "path": "Templater Scripts.md"
-    },
-    {
-      "basename": "transducer",
-      "path": "transducer.md"
     },
     {
       "basename": "Waveguides",
@@ -61,16 +85,8 @@
       "path": "Experimental Project for BIC using nSTF dielectric structures.md"
     },
     {
-      "basename": "Bound States in the continuum",
-      "path": "Bound States in the continuum.md"
-    },
-    {
       "basename": "BICs' existence defy conventional wisdom",
       "path": "BICs' existence defy conventional wisdom.md"
-    },
-    {
-      "basename": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems",
-      "path": "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md"
     },
     {
       "basename": "2022-04-26",
@@ -79,10 +95,6 @@
     {
       "basename": "2022-04-18",
       "path": "periodic-notes/daily-notes/2022-04-18.md"
-    },
-    {
-      "basename": "100 days of Code - The Complete Python Pro Bootcamp for 2021",
-      "path": "100 days of Code - The Complete Python Pro Bootcamp for 2021.md"
     },
     {
       "basename": "@hsuBoundStates2016",
@@ -145,10 +157,6 @@
       "path": "localised surface plasmon resonance.md"
     },
     {
-      "basename": "All Literature Notes",
-      "path": "All Literature Notes.md"
-    },
-    {
       "basename": "2022-03-31",
       "path": "periodic-notes/daily-notes/2022-03-31.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Metasurfaces",
       "path": "Metasurfaces.md"
-    },
-    {
-      "basename": "2022-01-31",
-      "path": "periodic-notes/daily-notes/2022-01-31.md"
-    },
-    {
-      "basename": "delete",
-      "path": "periodic-notes/daily-notes/delete.md"
     }
   ],
   "omittedPaths": [],

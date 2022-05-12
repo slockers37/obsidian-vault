@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d2d8d127744f18d9",
+        "id": "7a0f1c41d9ffb5ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Course - Optical Sensors.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3cc0a802ce61bf2a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sensors Introduction.md",
+            "file": "Bound States in the continuum.md",
             "mode": "source",
             "source": false
           }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensors Introduction.md",
+                "file": "Bound States in the continuum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensors Introduction.md"
+                "file": "Bound States in the continuum.md"
               }
             }
           }
@@ -143,17 +131,17 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "3cc0a802ce61bf2a",
+  "active": "7a0f1c41d9ffb5ae",
   "lastOpenFiles": [
-    "Sensors Introduction.md",
+    "Bound States in the continuum.md",
+    "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md",
     "Basic Optics for Optical Sensing.md",
-    "Course - Optical Sensors.md",
-    "000 Index.md",
     "Autumn Semester PhD (2021-22).md",
-    "Spring Semester PhD (2021-22).md",
-    "Single Mode Fiber.md",
-    "surface lattice resonance.md",
-    "Templater Scripts.md",
-    "transducer.md"
+    "All Literature Notes.md",
+    "100 days of Code - The Complete Python Pro Bootcamp for 2021.md",
+    "Sensor Fabrication and Characterization.md",
+    "Sensors Introduction.md",
+    "Course - Optical Sensors.md",
+    "000 Index.md"
   ]
 }
