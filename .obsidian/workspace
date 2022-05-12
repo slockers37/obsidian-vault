@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f27209aa3ebd5e10",
+        "id": "d2d8d127744f18d9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Experimental Project for BIC using nSTF dielectric structures.md",
+            "file": "Course - Optical Sensors.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3cc0a802ce61bf2a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sensors Introduction.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimental Project for BIC using nSTF dielectric structures.md",
+                "file": "Sensors Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimental Project for BIC using nSTF dielectric structures.md"
+                "file": "Sensors Introduction.md"
               }
             }
           }
@@ -131,17 +143,17 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "f27209aa3ebd5e10",
+  "active": "3cc0a802ce61bf2a",
   "lastOpenFiles": [
-    "Experimental Project for BIC using nSTF dielectric structures.md",
+    "Sensors Introduction.md",
+    "Basic Optics for Optical Sensing.md",
+    "Course - Optical Sensors.md",
     "000 Index.md",
-    "Spring Semester PhD (2021-22).md",
     "Autumn Semester PhD (2021-22).md",
-    "Bound States in the continuum.md",
-    "BICs' existence defy conventional wisdom.md",
-    "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md",
-    "periodic-notes/daily-notes/2022-04-26.md",
-    "periodic-notes/daily-notes/2022-04-18.md",
-    "100 days of Code - The Complete Python Pro Bootcamp for 2021.md"
+    "Spring Semester PhD (2021-22).md",
+    "Single Mode Fiber.md",
+    "surface lattice resonance.md",
+    "Templater Scripts.md",
+    "transducer.md"
   ]
 }

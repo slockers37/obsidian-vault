@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Experimental Project for BIC using nSTF dielectric structures",
-      "path": "Experimental Project for BIC using nSTF dielectric structures.md"
+      "basename": "Sensors Introduction",
+      "path": "Sensors Introduction.md"
+    },
+    {
+      "basename": "Basic Optics for Optical Sensing",
+      "path": "Basic Optics for Optical Sensing.md"
+    },
+    {
+      "basename": "Course - Optical Sensors",
+      "path": "Course - Optical Sensors.md"
     },
     {
       "basename": "000 Index",
       "path": "000 Index.md"
+    },
+    {
+      "basename": "Autumn Semester PhD (2021-22)",
+      "path": "Autumn Semester PhD (2021-22).md"
+    },
+    {
+      "basename": "Spring Semester PhD (2021-22)",
+      "path": "Spring Semester PhD (2021-22).md"
+    },
+    {
+      "basename": "Single Mode Fiber",
+      "path": "Single Mode Fiber.md"
+    },
+    {
+      "basename": "surface lattice resonance",
+      "path": "surface lattice resonance.md"
+    },
+    {
+      "basename": "Templater Scripts",
+      "path": "Templater Scripts.md"
+    },
+    {
+      "basename": "transducer",
+      "path": "transducer.md"
+    },
+    {
+      "basename": "Waveguides",
+      "path": "Waveguides.md"
+    },
+    {
+      "basename": "Wavelength range for different regions of EM spectra",
+      "path": "Wavelength range for different regions of EM spectra.md"
+    },
+    {
+      "basename": "Why does destructive interference doesn't mean energy destruction%3f",
+      "path": "Why does destructive interference doesn't mean energy destruction%3f.md"
+    },
+    {
+      "basename": "Why Wavelengths Matter in Fiber Optics",
+      "path": "Why Wavelengths Matter in Fiber Optics.md"
+    },
+    {
+      "basename": "Experimental Project for BIC using nSTF dielectric structures",
+      "path": "Experimental Project for BIC using nSTF dielectric structures.md"
     },
     {
       "basename": "Bound States in the continuum",
@@ -53,10 +105,6 @@
       "path": "periodic-notes/daily-notes/2022-04-08.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
       "basename": "@zhaoSelfreferencedRefractive2022",
       "path": "literature-notes/@zhaoSelfreferencedRefractive2022.md"
     },
@@ -89,20 +137,12 @@
       "path": "literature-notes/@weissTunableMetasurfaceUsing2022.md"
     },
     {
-      "basename": "Spring Semester PhD (2021-22)",
-      "path": "Spring Semester PhD (2021-22).md"
-    },
-    {
       "basename": "Electro-Optic effect",
       "path": "Electro-Optic effect.md"
     },
     {
       "basename": "localised surface plasmon resonance",
       "path": "localised surface plasmon resonance.md"
-    },
-    {
-      "basename": "surface lattice resonance",
-      "path": "surface lattice resonance.md"
     },
     {
       "basename": "All Literature Notes",
@@ -115,10 +155,6 @@
     {
       "basename": "2022-03-16",
       "path": "periodic-notes/daily-notes/2022-03-16.md"
-    },
-    {
-      "basename": "Basic Optics for Optical Sensing",
-      "path": "Basic Optics for Optical Sensing.md"
     },
     {
       "basename": "Excel - Beginner to Advanced",
@@ -139,10 +175,6 @@
     {
       "basename": "Finite Difference Time Domain",
       "path": "Finite Difference Time Domain.md"
-    },
-    {
-      "basename": "Course - Optical Sensors",
-      "path": "Course - Optical Sensors.md"
     },
     {
       "basename": "Crosslinker.excalidraw",
@@ -167,38 +199,6 @@
     {
       "basename": "delete",
       "path": "periodic-notes/daily-notes/delete.md"
-    },
-    {
-      "basename": "2021-06-25",
-      "path": "periodic-notes/daily-notes/2021-06-25.md"
-    },
-    {
-      "basename": "2022-01-20",
-      "path": "periodic-notes/daily-notes/2022-01-20.md"
-    },
-    {
-      "basename": "2022-01-16",
-      "path": "periodic-notes/daily-notes/2022-01-16.md"
-    },
-    {
-      "basename": "Photonic Crystal Fiber",
-      "path": "Photonic Crystal Fiber.md"
-    },
-    {
-      "basename": "gnuplot",
-      "path": "gnuplot.md"
-    },
-    {
-      "basename": "Desktop Configuration APP Lab",
-      "path": "Desktop Configuration APP Lab.md"
-    },
-    {
-      "basename": "Sensor Fabrication and Characterization",
-      "path": "Sensor Fabrication and Characterization.md"
-    },
-    {
-      "basename": "biorecognition element",
-      "path": "biorecognition element.md"
     }
   ],
   "omittedPaths": [],
