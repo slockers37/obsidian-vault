@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bound States in the continuum.md",
+            "file": "literature-notes/@zhaoSelfreferencedRefractive2022.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bound States in the continuum.md",
+                "file": "literature-notes/@zhaoSelfreferencedRefractive2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,11 +121,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bound States in the continuum.md"
+                "file": "literature-notes/@zhaoSelfreferencedRefractive2022.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,15 +134,15 @@
   },
   "active": "7a0f1c41d9ffb5ae",
   "lastOpenFiles": [
-    "Bound States in the continuum.md",
-    "BICs occur in systems where atleast one of the dimensions is infinite and cannot exist in compact systems.md",
-    "Basic Optics for Optical Sensing.md",
-    "Autumn Semester PhD (2021-22).md",
-    "All Literature Notes.md",
-    "100 days of Code - The Complete Python Pro Bootcamp for 2021.md",
-    "Sensor Fabrication and Characterization.md",
-    "Sensors Introduction.md",
-    "Course - Optical Sensors.md",
-    "000 Index.md"
+    "literature-notes/@zhaoSelfreferencedRefractive2022.md",
+    "localised surface plasmon resonance.md",
+    "gnuplot.md",
+    "Experimental Project for BIC using nSTF dielectric structures.md",
+    "Excel - Beginner to Advanced.md",
+    "Electromagnetic Analysis Using FDTD.md",
+    "emacs learning.md",
+    "EM waves.md",
+    "Double Dip Method.md",
+    "Bound States in the continuum.md"
   ]
 }
